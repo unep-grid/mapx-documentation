@@ -1,0 +1,3 @@
+myst-parser
+readthedocs-sphinx-search
+pydata-sphinx-theme

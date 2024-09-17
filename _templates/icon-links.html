@@ -1,0 +1,32 @@
+{% set icon_links = [
+  {
+    "name": "GitHub",
+    "url": "https://github.com/unep-grid/mapx",
+    "icon": "fa-brands fa-square-github",
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com/gridgva",
+    "icon": "fa-brands fa-square-twitter",
+  },
+  {
+    "name": "PDF export",
+    "url": "/_static/mapx.pdf",
+    "icon": "fas fa-download fa-lg",
+    "download": "mapx-documentation.pdf"
+  }
+]
+%}
+<ul class="navbar-icon-links" aria-label="Icon Links">
+  {% for item in icon_links %}
+  <li class="nav-item">
+    <a class="nav-link pst-navbar-icon" href="{{pathto(item.url, true) }}" {% if 'download' in item %}
+      download="{{ item.download }}" {% endif %} target="_blank" rel="noopener noreferrer">
+      <i class="{{ item.icon }}" aria-hidden="true"></i>
+      {% if item.name %}
+      <span class="sr-only">{{ item.name }}</span>
+      {% endif %}
+    </a>
+  </li>
+  {% endfor %}
+</ul>

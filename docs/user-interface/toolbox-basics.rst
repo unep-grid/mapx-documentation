@@ -1,0 +1,55 @@
+Toolbox (basics)
+================
+
+The toolbox offers users a series of tools for creating and editing
+content in MapX, managing projects and members, and perform some basic
+analysis on their data. Depending on the user's role in the project, the
+list of available tools varies. The tools presented in this section are
+those available to users with a public role. Advanced tools are
+presented and described in the Advanced tools chapter.
+
+.. figure:: ./img/toolbox-basic.png
+   :width: 450
+   :align: center
+   :class: with-shadow
+
+   Toolbox basic tools
+
+
+1. **URL Mirror helper**: MapX requires that the connection to external
+   resources (e.g., web services, APIs) be secure (i.e., https) and that
+   `CORS <https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS>`__ be
+   enabled. To bypass this restriction, a system has been developed by
+   the MapX team which allows to generate a valid link from any URL.
+2. **Clear cached data**: This tool allows to remove all cached data set
+   by MapX, including map tiles, GeoJSON layers, drafts, WMS responses,
+   summaries and custom scripts. This tool will only impact data stored
+   in the user's browser. No data will be removed server side.
+3. **Reset default panel sizes**: Panels and menu bars can be resized in
+   MapX. All modifications made by the users are cached in their browser
+   to keep them from session to session. This tool simply allows users
+   to reset the interface of MapX.
+4. **Get search API key and configuration**: All the information to use
+   the MapX search tool API is provided in this tool. The API technical
+   documentation is available
+   `here <https://github.com/unep-grid/mapx/wiki/Search-tool-API>`__.
+5. **Theme configuration**: The MapX user interface as well as the
+   basemap can be customized from this tool. For each element, users can
+   enable/disable its display, and change its color and/or opacity. If
+   the element is a text/label, its font can also be changed. These
+   modifications are only effective during the current session and will
+   therefore not be preserved if MapX is reloaded. However, if you want
+   to keep your custom theme for future sessions, it is possible to
+   export it in ``JSON`` format on your computer and then import it as
+   needed.
+6. **MapX version and changelog**: This tool allows users to consult the
+   version of MapX they are using as well as the change-log of the
+   application listing all the improvements, bug fixes and new
+   functionalities deployed over the versions.
+
+.. figure:: ./img/changelog.png
+   :width: 400
+   :align: center
+   :class: with-shadow
+
+   MapX changelog

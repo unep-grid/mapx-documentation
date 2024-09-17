@@ -1,0 +1,20 @@
+Tool,Icon,View type*,Restriction**,Description
+Zoom to all features,|image1|,"rt, vt, lg",no,Zoom to all features (dataset extent)
+Zoom on displayed features,|image2|,"vt, lg",no,Zoom to visible features (extent covered by the features displayed on the map)
+Reset the view,|image3|,"rt, vt, cc, lg",no,Reset the view to its original state
+Settings,|image4|,"rt, vt, cc, lg",no,"Depending on the type of data, different data filter options may be available: filter by value, numeric value or/and date. Transparency of the view can also be adjusted from this tool."
+Upload,|image5|,lg,yes,This tool allows users to upload a local GeoJSON to the MapX database. More information :ref:`here <upload-drag-drop>`.
+Download the data,|image6|,"rt, vt, cc, lg",no,"This tool allows users to download the spatial dataset associated with the view. Depending on the type of view, the process can rely on a link to an external file (raster and custom code views) or offers an interactive tool to set export options (vector tiles views). More information :doc:`here <download-tool>`."
+Code template / boilerplate / other format,|image7|,vt,no,This tool allows users to copy the style of a MapX vector view and use it in diverse contexts. More information :doc:`here <code-share>`.
+Attribute table,|image8|,vt,no,This tool allows user to consult the attribute table of a vector view. More information :doc:`here <attribute-table>`.
+Edit this view,|image9|,"rt, vt, cc, sm",yes,Configure this view
+Edit dashboard,|image10|,"rt, vt, cc, lg",yes,(De)activate and edit the dashboard associated with this view
+Set the style of this view,|image11|,vt,yes,Set the style of this view. The way the symbology and the legend are built can be defined here and can be edited at any time.
+Remove this view,|image12|,all,yes,Remove this view from the MapX database. ::warning This operation is permanent and cannot be undone.
+Share this view in another project,|image13|,all,yes,Share this view to another project where your role is at least “publisher”. The access restrictions of the view will be conserved in secondary projects.
+Open original project,|image14|,all,no,"Open the project where the view was originally published. If the project is private, only members of the project will be able to load it."
+Import as external view,|image15|,"rt, vt, cc, sm",yes,Import this view to the current project
+Remove / unlink this temporary view,|image16|,"rt, vt, cc, sm",no,Remove / unlink this temporary view from the current project
+Edit code,|image17|,cc,yes,Edit the code of a custom view
+Read this story map,|image18|,sm,no,Play the Story map
+Edit story map,|image19|,sm,yes,Edit the structure and content of the Story map

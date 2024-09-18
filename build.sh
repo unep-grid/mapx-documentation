@@ -60,7 +60,7 @@ rm -r _build/
 # Build PDF
 docker run --rm \
        --volume "$(pwd):/docs" \
-       git.unepgrid.ch/grid-pub/sphinx-latexpdf-mapx:1.0.0 make latexpdf
+       git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.0 make latexpdf
 
 # Copy the PDF document to `_static` to allow PDF export from the HTML
 cp $(pwd)/_build/latex/mapx.pdf $(pwd)/_static/
@@ -68,7 +68,7 @@ cp $(pwd)/_build/latex/mapx.pdf $(pwd)/_static/
 # Build HTML
 docker run --rm \
        --volume "$(pwd):/docs" \
-       git.unepgrid.ch/grid-pub/sphinx-latexpdf-mapx:1.0.0 make html
+       git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.0 make html
 
 # Build Docker image and push to online repository
 docker buildx build \

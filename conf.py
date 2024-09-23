@@ -12,18 +12,19 @@ sys.path.insert(0, os.path.abspath("."))
 project = "MapX"
 author = "UNEP/GRID-Geneva"
 copyright = "2014-2024, UNEP/GRID-Geneva"
-version = "1.0.1"
+version = "1.0.2"
 
 # -- General configuration ---------------------------------------------------
 
 extensions = [
 "myst_parser",
 "sphinx.ext.imgconverter",
-"sphinx_search.extension"
+"sphinx_search.extension",
+"sphinx_new_tab_link"
 ]
 
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "**/.git", "Thumbs.db", ".DS_Store", "initial-md", "*.md"]
+exclude_patterns = ["_build", "**/.git", "Thumbs.db", ".DS_Store", "*.md"]
 
 html_sidebars = {
   "index": [],
@@ -57,8 +58,9 @@ imgconverter_image_format = "png"
 
 # -- Options for HTML output -------------------------------------------------
 
-
-
 html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]
 html_logo = "_static/mapx_logo.png"
+
+# Show external links with icons
+new_tab_link_show_external_link_icon = True

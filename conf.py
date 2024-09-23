@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.abspath("."))
 project = "MapX"
 author = "UNEP/GRID-Geneva"
 copyright = "2014-2024, UNEP/GRID-Geneva"
-version = "1.0"
+version = "1.0.1"
 
 # -- General configuration ---------------------------------------------------
 
@@ -27,6 +27,10 @@ exclude_patterns = ["_build", "**/.git", "Thumbs.db", ".DS_Store", "initial-md",
 
 html_sidebars = {
   "index": [],
+}
+
+html_context = {
+   "default_mode": "light"
 }
 
 html_theme_options = {

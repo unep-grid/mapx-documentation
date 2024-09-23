@@ -29,6 +29,11 @@ html_sidebars = {
   "index": [],
 }
 
+html_js_files = [
+    'js/theme.js',
+]
+
+
 html_context = {
    "default_mode": "light"
 }
@@ -51,6 +56,8 @@ latex_elements = {
 imgconverter_image_format = "png"
 
 # -- Options for HTML output -------------------------------------------------
+
+
 
 html_theme = "pydata_sphinx_theme"
 html_static_path = ["_static"]

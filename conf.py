@@ -31,7 +31,7 @@ html_sidebars = {
 }
 
 html_js_files = [
-    'js/theme.js',
+    'js/extension.js',
 ]
 
 

@@ -87,12 +87,12 @@ Users can filter views that are available on the list through
 keyword(s). The process can be performed by typing manually the
 keyword(s) in the text field below the name of the project. The keywords
 are searched in title and abstract of all available views for the
-selected project and on the metadata of the source layers from which the
-views were generated. Views can also be filtered by features from the
-**Advanced filter** module. Multiple selection is allowed and can be
-managed in two different ways depending on the user's choice at the
-bottom of the module: 1) “Intersection” (default) or 2) “Union”. The
-first option displays views that satisfy all parameters while the second
+selected project and on the metadata of the source layers from which the views
+were generated. Views can also be filtered by types, features and/or rights
+from the **Advanced filter** module. Multiple selection is allowed
+and can be managed in two different ways depending on the user's choice at
+the bottom of the module: 1) “Intersection” (default) or 2) “Union”.
+The first option displays views that satisfy all parameters while the second
 results in a larger list of views, where displayed views are those that
 satisfy at least one parameter. Finally, views can be filtered according
 to their status (active on map or not).

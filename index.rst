@@ -27,8 +27,8 @@ web addresses that may not be associated with UNEP/GRID-Geneva.
 .. tip::
    To open links in new tabs, the following shortcuts can be used:
 
-   - Windows and Linux: `CTRL` + click
-   - MacOS: `CMD` + click
+   - Windows and Linux: ``CTRL`` + click
+   - MacOS: ``Command`` + click
 
 The documentation source code is available on GitHub, as well as
 in HTML and PDF formats at https://docs.mapx.org.

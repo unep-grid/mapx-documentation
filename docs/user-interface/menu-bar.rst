@@ -40,32 +40,39 @@ Navigation buttons
 +---------------------------+------------------------------------------+
 
 In addition to the navigation buttons, some interactions with the map
-can also be done via mouse and keyboard: - Dragging through the map can
-be performed by clicking the left button of the mouse and moving the
-pointer. - Zoom can be performed by scrolling the mouse's wheel. -
-Clicking ``Shift`` and dragging with the mouse allows selecting an area
-where to zoom in. - Clicking the right button of the mouse (or clicking
-``Ctrl`` and clicking the left mouse button) and moving the pointer
-allows the map to be tilted and rotated.
+can also be done via mouse and keyboard:
+
+- Dragging through the map can be performed by clicking the left button of
+  the mouse and moving the pointer.
+- Zoom can be performed by scrolling the mouse's wheel.
+- Clicking ``Shift`` and dragging with the mouse allows selecting an area
+  where to zoom in.
+- Clicking the right button of the mouse (or clicking ``Ctrl`` and clicking
+  the left mouse button) and moving the pointer allows the map to be tilted
+  and rotated.
 
 Tools
 ~~~~~
 
-+----------------+-------------+----------------------------------------+
-| Button         | Description | Link to the specific documentation     |
-+================+=============+========================================+
-| |image12|      | Map         | :doc:`link <map-composer>`             |
-|                | composer    |                                        |
-+----------------+-------------+----------------------------------------+
-| |image13|      | Draw tool   | :doc:`link <draw-tool>`                |
-+----------------+-------------+----------------------------------------+
-| |image14|      | Sharing     | :doc:`link <sharing-manager>`          |
-|                | manager     |                                        |
-+----------------+-------------+----------------------------------------+
-| |image15|      | Highlight   | :doc:`link <highlight-vector-features>`|
-|                | vector      |                                        |
-|                | features    |                                        |
-+----------------+-------------+----------------------------------------+
++----------------+-------------+-----------------------------------------+
+| Button         | Description | Link to the specific documentation      |
++================+=============+=========================================+
+| |image12|      | Map         | :doc:`link <map-composer>`              |
+|                | composer    |                                         |
++----------------+-------------+-----------------------------------------+
+| |image13|      | Draw tool   | :doc:`link <draw-tool>`                 |
++----------------+-------------+-----------------------------------------+
+| |image14|      | Sharing     | :doc:`link <sharing-manager>`           |
+|                | manager     |                                         |
++----------------+-------------+-----------------------------------------+
+| |image15|      | Highlight   | :doc:`link <highlight-vector-features>` |
+|                | vector      |                                         |
+|                | features    |                                         |
++----------------+-------------+-----------------------------------------+
+| |image20|      | Report      | :doc:`link <problematic-content-report>`|
+|                | problematic |                                         |
+|                | content     |                                         |
++----------------+-------------+-----------------------------------------+
 
 Others
 ~~~~~~
@@ -102,3 +109,4 @@ Others
 .. |image17| image:: ./img/therms-of-use.png
 .. |image18| image:: ./img/documentation.png
 .. |image19| image:: ./img/bug-report.png
+.. |image20| image:: ./img/problematic-content-report.png

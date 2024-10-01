@@ -201,6 +201,10 @@ To create a join-type source, follow these steps:
    will automatically appear in other MapX tools, and the data can be
    visualized through a vector-type view.
 
+.. note::
+   Columns to display are limited to a maximum of 50 for the "Base source"
+   as well as for all "Join sources".
+
 Validation system
 ^^^^^^^^^^^^^^^^^
 

@@ -57,18 +57,12 @@ fi
 # Remove _build folder
 rm -r _build/
 
-# Build PDF
+# Build PDF & HTML
+# The PDF document is copied to `_static` to allow PDF export from the HTML
 docker run --rm \
        --volume "$(pwd):/docs" \
-       git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 make latexpdf
-
-# Copy the PDF document to `_static` to allow PDF export from the HTML
-cp $(pwd)/_build/latex/mapx.pdf $(pwd)/_static/
-
-# Build HTML
-docker run --rm \
-       --volume "$(pwd):/docs" \
-       git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 make html
+       git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 sh -c \
+       "make latexpdf && cp _build/latex/mapx.pdf _static/ && make html"
 
 # Build Docker image and push to online repository
 docker buildx build \

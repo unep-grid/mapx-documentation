@@ -2,10 +2,12 @@ Edit vector source
 ==================
 
 .. warning::
-   Using the **Edit vector source** tool may cause data to be irreparably
-   altered or even deleted, as with desktop spreadsheet editors. MapX do
-   not offer data recovery services for data sources. Please use this tool
-   with caution.
+   The MapX database currently utilizes two separate backup systems. However,
+   user-specific data recovery is not yet supported for structural changes to
+   tables, such as deletions of rows or columns, which are considered
+   irreversible. Therefore, using the **Edit vector source** tool may cause
+   data to be permanently altered or even deleted, as with desktop spreadsheet
+   editors. Please use this tool with caution.
 
 The **Edit vector source** is an interactive workspace allowing to
 access the tabular data of a vector source and edit its content
@@ -120,7 +122,7 @@ possible to undo/redo all the changes using the dedicated buttons
 Advanced tools
 ~~~~~~~~~~~~~~
 
-Eight advanced tools are available from the dedicated button at the
+Nine advanced tools are available from the dedicated button at the
 bottom of the panel:
 
 .. figure:: ./img/edit-sources-advanced-tools.png
@@ -129,6 +131,7 @@ bottom of the panel:
    :class: with-shadow
 
    Advanced tools
+
 
 .. _add-column:
 
@@ -157,8 +160,7 @@ Remove column
 
 This tool allows to remove a specific column from the source. The
 deletion will be performed in the database and all interactive tables.
-It is not possible to undo this operation. As MapX does not offer a
-recovery service, data will be permanently deleted.
+It is not possible to undo this action after the last confirmation panel.
 
 .. note::
    It is not possible to delete a column that is used as a primary and/or
@@ -216,6 +218,28 @@ Duplicate column
 This tool allows to duplicate a column of the attribute table with its
 content. As a new column is added, the same restrictions as **Add
 column** apply (see above).
+
+Remove selected rows
+^^^^^^^^^^^^^^^^^^^^
+
+This tool allows to delete rows from the dataset that have been previously
+selected from the table editor. To select rows, simply click on the row indexes.
+Multiple selection can be performed by holding down the ``CTRL`` key or
+``Command`` key on macOS. The deletion will be performed in the database and
+all interactive tables. It is not possible to undo this action after the last
+confirmation panel.
+
+.. figure:: ./img/edit-sources-attribute-rows-selection.gif
+   :width: 450
+   :align: center
+   :class: with-shadow
+
+   Selecting rows for deletion
+
+.. note::
+   While it's possible to delete all the rows of a source without impacting
+   the MapX application, an empty source will definitely become unusable,
+   as it is currently not possible to add new rows to sources.
 
 Validate the geometry
 ^^^^^^^^^^^^^^^^^^^^^

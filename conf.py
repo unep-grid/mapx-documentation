@@ -1,5 +1,6 @@
 import os
 import sys
+from datetime import date
 sys.path.insert(0, os.path.abspath("."))
 
 # Configuration file for the Sphinx documentation builder.
@@ -11,8 +12,8 @@ sys.path.insert(0, os.path.abspath("."))
 
 project = "MapX"
 author = "UNEP/GRID-Geneva"
-copyright = "2014-2024, UNEP/GRID-Geneva"
-version = "1.0.2"
+copyright = f'2014-{date.today().year}, UNEP/GRID-Geneva'
+version = "1.0.3"
 
 # -- General configuration ---------------------------------------------------
 
@@ -48,7 +49,12 @@ html_theme_options = {
 }
 
 latex_elements = {
+    'papersize': 'letterpaper',
+    'pointsize': '11pt',
     'preamble': r"""
+    \usepackage{charter}
+    \usepackage[defaultsans]{lato}
+    \usepackage{inconsolata}
     \usepackage{longtable}
     """,
 }

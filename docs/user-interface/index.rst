@@ -48,3 +48,4 @@ the interactive map and which are:
    draw-tool
    sharing-manager
    highlight-vector-features
+   problematic-content-report

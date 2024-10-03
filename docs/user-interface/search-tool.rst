@@ -11,7 +11,7 @@ General description
 
 Users regardless of their privileges can access the **Search tool** from
 the left panel by clicking on the **Catalog** tab. The tool consists of
-five elements:
+six elements:
 
 1. a field where search keywords can be specified
 2. a button to access the help of the **Search tool** (this page)
@@ -21,13 +21,23 @@ five elements:
 6. a footer where the number of views matching the search criteria is
    displayed
 
-.. figure:: ./img/search-tool-details.png
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Search tool layout
+   .. figure:: ./img/search-tool-details.png
+      :width: 400
+      :align: center
+      :class: with-shadow
 
+      Search tool layout
+
+.. only:: latex
+
+   .. figure:: ./img/search-tool-details.png
+      :width: 7cm
+      :align: center
+      :class: with-shadow
+
+      Search tool layout
 
 .. hint::
    In the **Project's views** tab, the search field allows users to
@@ -46,24 +56,35 @@ tool** is dynamic meaning that the list of views matching the search
 criteria is re-evaluated each time a new character is added in the
 search field.
 
-.. figure:: ./img/search-tool-usage.gif
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Full-text search
+   .. figure:: ./img/search-tool-usage.gif
+      :width: 450
+      :align: center
+      :class: with-shadow
 
+      Full-text search
 
 Structure of a result
 ~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: ./img/search-tool-results.png
-   :width: 400
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Result
+   .. figure:: ./img/search-tool-results.png
+      :width: 400
+      :align: center
+      :class: with-shadow
 
+      Result
+
+.. only:: latex
+
+   .. figure:: ./img/search-tool-results.png
+      :width: 8cm
+      :align: center
+      :class: with-shadow
+
+      Result
 
 -  yellow: title of the view followed by text elements matching the
    search criteria
@@ -81,13 +102,23 @@ Structure of a result
       clicking on the **Remove / unlink this temporary view** button
       (red circle in the image below).
 
-.. figure:: ./img/search-tool-shared-view.png
-   :width: 400
-   :align: center
-   :class: with-shadow
+      .. only:: html
 
-   Shared view from the search tool (temporary views)
+         .. figure:: ./img/search-tool-shared-view.png
+            :width: 400
+            :align: center
+            :class: with-shadow
 
+            Shared view from the search tool (temporary views)
+
+      .. only:: latex
+
+         .. figure:: ./img/search-tool-shared-view.png
+            :width: 8cm
+            :align: center
+            :class: with-shadow
+
+            Shared view from the search tool (temporary views)
 
 -  blue: list of thematic and geographic keywords and type of view
 -  red: time interval covered by the view (start year & end year)
@@ -116,13 +147,23 @@ a search according to five different criteria:
    the data)
 5. type of view
 
-.. figure:: ./img/search-tool-filters.gif
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Filter from the advanced filtering options
+   .. figure:: ./img/search-tool-filters.gif
+      :width: 450
+      :align: center
+      :class: with-shadow
 
+      Filter from the advanced filtering options
+
+.. only:: latex
+
+   .. figure:: ./img/search-tool-filters.png
+      :width: 8cm
+      :align: center
+      :class: with-shadow
+
+      Filter from the advanced filtering options
 
 .. hint::
    Advanced users can make more precise filters on dates (all those
@@ -149,13 +190,23 @@ can be removed by clicking again on the item (underlined) or from the
 In the example below, a click on “Water quality” triggers a filter equal
 to ``keywords GEMET = "Water quality"``.
 
-.. figure:: ./img/search-tool-filter-results.gif
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Filter from the list of results
+   .. figure:: ./img/search-tool-filter-results.gif
+      :width: 450
+      :align: center
+      :class: with-shadow
 
+      Filter from the list of results
+
+.. only:: latex
+
+   .. figure:: ./img/search-tool-filter-results.png
+      :width: 8cm
+      :align: center
+      :class: with-shadow
+
+      Filter from the list of results
 
 How can I import a view into my project from the search tool?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,13 +217,23 @@ add it to the project permanently, click on the **Import as external
 view** button in the view toolbar. Views imported like this are handled
 from the **Manage external views** tool in the toolbox.
 
-.. figure:: ./img/search-tool-import-view.png
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Import a temporary view to the current project
+   .. figure:: ./img/search-tool-import-view.png
+      :width: 400
+      :align: center
+      :class: with-shadow
 
+      Import a temporary view to the current project
+
+.. only:: latex
+
+   .. figure:: ./img/search-tool-import-view.png
+      :width: 8cm
+      :align: center
+      :class: with-shadow
+
+      Import a temporary view to the current project
 
 .. |gemet| image:: ./img/search-tool-gemet.png
 .. |geo| image:: ./img/search-tool-geographic-keywords.png

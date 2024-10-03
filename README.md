@@ -6,27 +6,16 @@ This repository is meant to write and manage the official documentation of [MapX
 
 The best way to build the documentation is to use the dedicated [Docker image](https://git.unepgrid.ch/mapx/-/packages/container/sphinx-latexpdf-mapx) based on `sphinx-latexpdf` and containing all required dependencies.
 
-1. Build PDF:
+Build PDF & HTML:
 
-   ```sh
-   docker run --rm \
-          --volume "$(pwd):/docs" \
-          git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 make latexpdf
-   ```
+```sh
+# The PDF document is copied to `_static` to allow PDF export from the HTML
 
-2. Copy the PDF document to `_static` to allow PDF export from the HTML:
-
-   ```sh
-   cp $(pwd)/_build/latex/mapx.pdf $(pwd)/_static/
-   ```
-
-3. Build HTML:
-
-   ```sh
-   docker run --rm \
-          --volume "$(pwd):/docs" \
-          git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 make html
-   ```
+docker run --rm \
+      --volume "$(pwd):/docs" \
+      git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 sh -c \
+      "make latexpdf && cp _build/latex/mapx.pdf _static/ && make html"
+```
 
 ## Disclaimer
 

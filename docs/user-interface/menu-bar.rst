@@ -45,9 +45,9 @@ can also be done via mouse and keyboard:
 - Dragging through the map can be performed by clicking the left button of
   the mouse and moving the pointer.
 - Zoom can be performed by scrolling the mouse's wheel.
-- Clicking ``Shift`` and dragging with the mouse allows selecting an area
+- Clicking ``SHIFT`` and dragging with the mouse allows selecting an area
   where to zoom in.
-- Clicking the right button of the mouse (or clicking ``Ctrl`` and clicking
+- Clicking the right button of the mouse (or clicking ``CTRL`` and clicking
   the left mouse button) and moving the pointer allows the map to be tilted
   and rotated.
 
@@ -91,22 +91,42 @@ Others
 +--------------------+-------------------------------------------------+
 
 .. |image1| image:: ./img/northing.png
+   :width: 1cm
 .. |image2| image:: ./img/zoom-in.png
+   :width: 1cm
 .. |image3| image:: ./img/zoom-out.png
+   :width: 1cm
 .. |image4| image:: ./img/rotate-left.png
+   :width: 1cm
 .. |image5| image:: ./img/rotate-right.png
+   :width: 1cm
 .. |image6| image:: ./img/globe-mode.png
+   :width: 1cm
 .. |image7| image:: ./img/3d-terrain.png
+   :width: 1cm
 .. |image8| image:: ./img/aerial.png
+   :width: 1cm
 .. |image9| image:: ./img/theme-dark-light.png
+   :width: 1cm
 .. |image10| image:: ./img/theme-vegetation.png
+   :width: 1cm
 .. |image11| image:: ./img/theme-water.png
+   :width: 1cm
 .. |image12| image:: ./img/map-composer.png
+   :width: 1cm
 .. |image13| image:: ./img/draw-tool.png
+   :width: 1cm
 .. |image14| image:: ./img/sharing-manager.png
+   :width: 1cm
 .. |image15| image:: ./img/highlight-vector.png
+   :width: 1cm
 .. |image16| image:: ./img/fullscreen.png
+   :width: 1cm
 .. |image17| image:: ./img/therms-of-use.png
+   :width: 1cm
 .. |image18| image:: ./img/documentation.png
+   :width: 1cm
 .. |image19| image:: ./img/bug-report.png
+   :width: 1cm
 .. |image20| image:: ./img/problematic-content-report.png
+   :width: 1cm

@@ -1,13 +1,23 @@
 Work environment
 ================
 
-.. figure:: ./img/top-work-environment.png
-   :width: 500
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Project, login and language buttons
+   .. figure:: ./img/top-work-environment.png
+      :width: 500
+      :align: center
+      :class: with-shadow
 
+      Project, login and language buttons
+
+.. only:: latex
+
+   .. figure:: ./img/top-work-environment.png
+      :width: 10cm
+      :align: center
+      :class: with-shadow
+
+      Project, login and language buttons
 
 Project
 -------
@@ -24,13 +34,23 @@ project). A panel listing all the projects to which they have access
 (public and private projects in which they are members) is displayed in
 the interface.
 
-.. figure:: ./img/list-projects.png
-   :width: 400
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   List of projects available to the user
+   .. figure:: ./img/list-projects.png
+      :width: 400
+      :align: center
+      :class: with-shadow
 
+      List of projects available to the user
+
+.. only:: latex
+
+   .. figure:: ./img/list-projects.png
+      :width: 10cm
+      :align: center
+      :class: with-shadow
+
+      List of projects available to the user
 
 Login
 -----
@@ -42,13 +62,23 @@ your inbox, don't forget to check your SPAM folder. By logging in MapX,
 users have access to additional functionalities and datasets/content
 according to their privileges in the different projects.
 
-.. figure:: ./img/authentication.png
-   :width: 400
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Login panel
+   .. figure:: ./img/authentication.png
+      :width: 400
+      :align: center
+      :class: with-shadow
 
+      Login panel
+
+.. only:: latex
+
+   .. figure:: ./img/authentication.png
+      :width: 10cm
+      :align: center
+      :class: with-shadow
+
+      Login panel
 
 Language of the interface
 -------------------------
@@ -60,13 +90,23 @@ simply by clicking on the dedicated button. Note that only the interface
 is translated into these languages. The data itself remains in the
 language provided by the publishers.
 
-.. figure:: ./img/language.png
-   :width: 600
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Language panel
+   .. figure:: ./img/language.png
+      :width: 600
+      :align: center
+      :class: with-shadow
 
+      Language panel
+
+.. only:: latex
+
+   .. figure:: ./img/language.png
+      :width: 13cm
+      :align: center
+      :class: with-shadow
+
+      Language panel
 
 Data catalog
 ------------
@@ -97,12 +137,23 @@ results in a larger list of views, where displayed views are those that
 satisfy at least one parameter. Finally, views can be filtered according
 to their status (active on map or not).
 
-.. figure:: ./img/advanced-filter.png
-   :width: 500
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Advanced filter module
+   .. figure:: ./img/advanced-filter.png
+      :width: 400
+      :align: center
+      :class: with-shadow
+
+      Advanced filter module
+
+.. only:: latex
+
+   .. figure:: ./img/advanced-filter.png
+      :width: 8cm
+      :align: center
+      :class: with-shadow
+
+      Advanced filter module
 
 .. _sorting-views:
 
@@ -144,9 +195,20 @@ module. Users should not forget to click “Save this state locally” after
 loading the original state or after any modification of the
 organization.
 
-.. figure:: ./img/panel-settings.png
-   :width: 600
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Categories' module
+   .. figure:: ./img/panel-settings.png
+      :width: 600
+      :align: center
+      :class: with-shadow
+
+      Categories' module
+
+.. only:: latex
+
+   .. figure:: ./img/panel-settings.png
+      :width: 12cm
+      :align: center
+      :class: with-shadow
+
+      Categories' module

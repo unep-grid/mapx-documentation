@@ -32,13 +32,23 @@ How do I use the map composer?
 The **Map Composer** can be accessed from the menu located on the
 right-side of your screen.
 
-.. figure:: ./img/map-composer-menu-bar.png
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Map Composer icon in the menu bar
+   .. figure:: ./img/map-composer-menu-bar.png
+      :width: 450
+      :align: center
+      :class: with-shadow
 
+      Map Composer icon in the menu bar
+
+.. only:: latex
+
+   .. figure:: ./img/map-composer-menu-bar.png
+      :width: 10cm
+      :align: center
+      :class: with-shadow
+
+      Map Composer icon in the menu bar
 
 Before using the tool, activate all the views that will be exported on
 the map and choose carefully the order in which they are displayed on
@@ -62,20 +72,25 @@ methods:
       of the map will automatically be set. The printing resolution is
       automatically set to 300 dpi when a standard print format is selected.
 
-      .. figure:: ./img/map-composer-presets.gif
-         :align: center
-         :class: with-shadow
+      .. only:: html
 
+         .. figure:: ./img/map-composer-presets.gif
+            :align: center
+            :class: with-shadow
+
+            Map Composer icon in the menu bar
 
    2. Manual input:
    
       1. Define the size of your map by choosing the height and width in
          pixel. This option can be useful if your map is viewed on a
          digital device (computer, tablet, phone).
+
+         .. only:: html
    
-         .. figure:: ./img/map-composer-manual.gif
-            :align: center
-            :class: with-shadow
+            .. figure:: ./img/map-composer-manual.gif
+               :align: center
+               :class: with-shadow
    
       2. Define the size of your map by choosing the height and width in
          physical measurement (inches or millimeters). When this option is
@@ -84,29 +99,43 @@ methods:
          resolution of 300 dpi. Once the paper settings are selected, the
          page will be automatically resized in the workspace.
    
-         .. figure:: ./img/map-composer-manual-dims.gif
-            :align: center
-            :class: with-shadow
+         .. only:: html
+
+            .. figure:: ./img/map-composer-manual-dims.gif
+               :align: center
+               :class: with-shadow
    
 2. Adjusting manually the size of the page: drag the sides of the
    background page of your map using the handles. The values in the
    left-side bar will be updated accordingly.
 
-   .. figure:: ./img/map-composer-resize.gif
-      :align: center
-      :class: with-shadow
+   .. only:: html
+
+      .. figure:: ./img/map-composer-resize.gif
+         :align: center
+         :class: with-shadow
 
 Whatever the method used to define the size of the export, it is
 possible to switch from portrait to landscape orientation by clicking on
 the dedicated button.
 
-.. figure:: ./img/map-composer-page-orientation.png
-   :width: 180
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Portrait/landscape button
+   .. figure:: ./img/map-composer-page-orientation.png
+      :width: 180
+      :align: center
+      :class: with-shadow
 
+      Portrait/landscape button
+
+.. only:: latex
+
+   .. figure:: ./img/map-composer-page-orientation.png
+      :width: 3cm
+      :align: center
+      :class: with-shadow
+
+      Portrait/landscape button
 
 How do I design a new map?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,33 +172,55 @@ You can edit the following components of the map:
    the right-side bar to add any important information that is not
    included in the preloaded elements.
 
-.. figure:: ./img/map-composer-usage.gif
-   :align: center
-   :class: with-shadow
+.. only:: html
+
+   .. figure:: ./img/map-composer-usage.gif
+      :align: center
+      :class: with-shadow
 
 
 .. note::
-   *not* all elements must appear on the map. If you don't want to
+   *Not* all elements must appear on the map. If you don't want to
    use one of the elements displayed in your workspace, move it off the
    page (delimited by red border) to the darker area of the workspace using
    the center-handle. Alternatively, you can permanently delete an element
    from the **Map Composer** by clicking the **X** button located in its
    upper-right corner.
 
-   .. figure:: ./img/map-composer-hide-element.png
-      :width: 600
-      :align: center
-      :class: with-shadow
-   
-      Hiding cartographic element(s) from the export
-   
-   
-   .. figure:: ./img/map-composer-remove-element.png
-      :align: center
-      :class: with-shadow
-   
-      Removing cartographic element(s) from the export
+   .. only:: html
 
+      .. figure:: ./img/map-composer-hide-element.png
+         :width: 600
+         :align: center
+         :class: with-shadow
+
+         Hiding cartographic element(s) from the export
+
+   .. only:: latex
+
+      .. figure:: ./img/map-composer-hide-element.png
+         :width: 12cm
+         :align: center
+         :class: with-shadow
+
+         Hiding cartographic element(s) from the export
+
+   .. only:: html
+
+      .. figure:: ./img/map-composer-remove-element.png
+         :align: center
+         :class: with-shadow
+
+         Removing cartographic element(s) from the export
+
+   .. only:: latex
+
+      .. figure:: ./img/map-composer-remove-element.png
+         :width: 5cm
+         :align: center
+         :class: with-shadow
+
+         Removing cartographic element(s) from the export
 
 How do I export my map?
 ~~~~~~~~~~~~~~~~~~~~~~~

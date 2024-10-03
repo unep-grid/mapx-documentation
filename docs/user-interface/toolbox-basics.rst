@@ -8,13 +8,23 @@ list of available tools varies. The tools presented in this section are
 those available to users with a public role. Advanced tools are
 presented and described in the Advanced tools chapter.
 
-.. figure:: ./img/toolbox-basic.png
-   :width: 450
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   Toolbox basic tools
+   .. figure:: ./img/toolbox-basic.png
+      :width: 400
+      :align: center
+      :class: with-shadow
 
+      Toolbox basic tools
+
+.. only:: latex
+
+   .. figure:: ./img/toolbox-basic.png
+      :width: 9cm
+      :align: center
+      :class: with-shadow
+
+      Toolbox basic tools
 
 1. **URL Mirror helper**: MapX requires that the connection to external
    resources (e.g., web services, APIs) be secure (i.e., https) and that
@@ -47,9 +57,20 @@ presented and described in the Advanced tools chapter.
    application listing all the improvements, bug fixes and new
    functionalities deployed over the versions.
 
-.. figure:: ./img/changelog.png
-   :width: 400
-   :align: center
-   :class: with-shadow
+.. only:: html
 
-   MapX changelog
+   .. figure:: ./img/changelog.png
+      :width: 400
+      :align: center
+      :class: with-shadow
+
+      MapX changelog
+
+.. only:: latex
+
+   .. figure:: ./img/changelog.png
+      :width: 8cm
+      :align: center
+      :class: with-shadow
+
+      MapX changelog

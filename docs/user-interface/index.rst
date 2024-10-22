@@ -47,5 +47,4 @@ the interactive map and which are:
    map-composer
    draw-tool
    sharing-manager
-   highlight-vector-features
    problematic-content-report

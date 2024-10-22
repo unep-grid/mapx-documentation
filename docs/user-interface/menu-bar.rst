@@ -65,11 +65,7 @@ Tools
 | |image14|      | Sharing     | :doc:`link <sharing-manager>`           |
 |                | manager     |                                         |
 +----------------+-------------+-----------------------------------------+
-| |image15|      | Highlight   | :doc:`link <highlight-vector-features>` |
-|                | vector      |                                         |
-|                | features    |                                         |
-+----------------+-------------+-----------------------------------------+
-| |image20|      | Report      | :doc:`link <problematic-content-report>`|
+| |image15|      | Report      | :doc:`link <problematic-content-report>`|
 |                | problematic |                                         |
 |                | content     |                                         |
 +----------------+-------------+-----------------------------------------+
@@ -118,7 +114,7 @@ Others
    :width: 1cm
 .. |image14| image:: ./img/sharing-manager.png
    :width: 1cm
-.. |image15| image:: ./img/highlight-vector.png
+.. |image15| image:: ./img/problematic-content-report.png
    :width: 1cm
 .. |image16| image:: ./img/fullscreen.png
    :width: 1cm
@@ -127,6 +123,4 @@ Others
 .. |image18| image:: ./img/documentation.png
    :width: 1cm
 .. |image19| image:: ./img/bug-report.png
-   :width: 1cm
-.. |image20| image:: ./img/problematic-content-report.png
    :width: 1cm

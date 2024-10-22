@@ -6,7 +6,7 @@ content in MapX, managing projects and members, and perform some basic
 analysis on their data. Depending on the user's role in the project, the
 list of available tools varies. The tools presented in this section are
 those available to users with a public role. Advanced tools are
-presented and described in the Advanced tools chapter.
+presented and described in the :doc:`Advanced tools <../advanced-tools/index>` chapter.
 
 .. only:: html
 
@@ -25,6 +25,72 @@ presented and described in the Advanced tools chapter.
       :class: with-shadow
 
       Toolbox basic tools
+
+
+Spotlight tool
+--------------
+
+The **Spotlight** tool enables users to identify areas where several
+layers overlap. The tool draws a highlight over the overlapping data
+on map and shadows the rest of the data. The tool only accepts vector
+tiles views as input data, but it is fully responsive to any change to
+the data displayed on map through filtering processes.
+
+.. note::
+   For technical reasons, this tool is currently disabled in non-blink
+   browsers (i.e., Safari, Firefox).
+
+
+How do I use the Spotlight tool?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+First, activate the views that you want to overlap from the **Data catalog**.
+Then, define the “highlight mode” - minimum number of  overlapping layers
+to be highlighted - from the **Toolbox**. Finally, activate the analysis
+by pressing the “Spotlight vector features” button.
+
+
+.. figure:: ./img/spotlight-config.png
+   :width: 600
+   :align: center
+   :class: with-shadow
+
+   Highlight tool configuration
+
+
+The tool additionally offers an option to estimate the overlapping area.
+Please note that the area estimate only takes into account what is
+displayed on the screen and not the complete datasets. Values are
+updated automatically when the position or the zoom in the map are
+modified by the users.
+
+.. figure:: ./img/spotlight-area.png
+   :width: 600
+   :align: center
+   :class: with-shadow
+
+   Area estimation
+
+
+.. warning::
+   This tool should be used for preliminary investigation. It uses the
+   approximated area of spatial features and is therefore not suitable for
+   reporting.
+
+.. only:: html
+
+   Example of use
+   ~~~~~~~~~~~~~~
+
+   .. figure:: ./img/spotlight-usage.gif
+      :align: center
+      :class: with-shadow
+
+      Overlap area estimation
+
+
+Utilities
+---------
 
 1. **URL Mirror helper**: MapX requires that the connection to external
    resources (e.g., web services, APIs) be secure (i.e., https) and that

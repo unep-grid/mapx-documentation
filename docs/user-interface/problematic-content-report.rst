@@ -15,7 +15,7 @@ How to report problematic content in MapX?
 All users, regardless of their privileges, can access the **Report problematic
 content tool** from the menu bar located on the right-side of your screen.
 
-.. figure:: ./img/problematic-content-report-menu-bar.png
+.. figure:: ./img/problematic-content-report-menu-bar.jpg
    :width: 450
    :align: center
    :class: with-shadow

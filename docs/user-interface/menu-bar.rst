@@ -65,7 +65,9 @@ Tools
 | |image14|      | Sharing     | :doc:`link <sharing-manager>`           |
 |                | manager     |                                         |
 +----------------+-------------+-----------------------------------------+
-| |image15|      | Report      | :doc:`link <problematic-content-report>`|
+| |image15|      | Geocoder    | :doc:`link <geocoder>`                  |
++----------------+-------------+-----------------------------------------+
+| |image16|      | Report      | :doc:`link <problematic-content-report>`|
 |                | problematic |                                         |
 |                | content     |                                         |
 +----------------+-------------+-----------------------------------------+
@@ -76,14 +78,14 @@ Others
 +--------------------+-------------------------------------------------+
 | Button             | Description                                     |
 +====================+=================================================+
-| |image16|          | Enable/disable fullscreen mode                  |
+| |image17|          | Enable/disable fullscreen mode                  |
 +--------------------+-------------------------------------------------+
-| |image17|          | Terms of use                                    |
+| |image18|          | Terms of use                                    |
 +--------------------+-------------------------------------------------+
-| |image18|          | Access to MapX documentation                    |
+| |image19|          | Access to MapX documentation                    |
 +--------------------+-------------------------------------------------+
-| |image19|          | Report a bug / feature request (link to the     |
-|                    | MapX GitHub repository)                         |
+| |image20|          | Application source code (link to the MapX       |
+|                    | GitHub repository)                              |
 +--------------------+-------------------------------------------------+
 
 .. |image1| image:: ./img/northing.png
@@ -114,13 +116,15 @@ Others
    :width: 1cm
 .. |image14| image:: ./img/sharing-manager.png
    :width: 1cm
-.. |image15| image:: ./img/problematic-content-report.png
+.. |image15| image:: ./img/geocoder.jpg
    :width: 1cm
-.. |image16| image:: ./img/fullscreen.png
+.. |image16| image:: ./img/problematic-content-report.png
    :width: 1cm
-.. |image17| image:: ./img/therms-of-use.png
+.. |image17| image:: ./img/fullscreen.png
    :width: 1cm
-.. |image18| image:: ./img/documentation.png
+.. |image18| image:: ./img/therms-of-use.jpg
    :width: 1cm
-.. |image19| image:: ./img/bug-report.png
+.. |image19| image:: ./img/documentation.png
+   :width: 1cm
+.. |image20| image:: ./img/github.jpg
    :width: 1cm

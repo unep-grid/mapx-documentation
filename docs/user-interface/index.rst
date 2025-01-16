@@ -6,7 +6,7 @@ geospatial layers can be displayed, a data catalog environment, and a
 set of functionalities (tools) to, among other things, interrogate,
 interact, export the data displayed in the map.
 
-.. figure:: ./img/mapx-ui.png
+.. figure:: ./img/mapx-ui.jpg
    :align: center
    :class: with-shadow
 
@@ -47,4 +47,5 @@ the interactive map and which are:
    map-composer
    draw-tool
    sharing-manager
+   geocoder
    problematic-content-report

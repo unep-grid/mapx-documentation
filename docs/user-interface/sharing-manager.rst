@@ -16,14 +16,14 @@ How to create a share link in MapX?
 -----------------------------------
 
 Users regardless of their privileges can access the **Sharing manager**
-from the tool bar located in the top-right corner of the application.
+from the menu bar located in the top-right corner of the application.
 
-.. figure:: ./img/sharing-manager-menu-bar.png
+.. figure:: ./img/sharing-manager-menu-bar.jpg
    :width: 450
    :align: center
    :class: with-shadow
 
-   Location of the Sharing manager in the tool bar
+   Location of the Sharing manager in the menu bar
 
 
 Once the tool is activated, users can create and customize a share link

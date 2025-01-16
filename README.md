@@ -13,7 +13,7 @@ Build PDF & HTML:
 
 docker run --rm \
       --volume "$(pwd):/docs" \
-      git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.1 sh -c \
+      git.unepgrid.ch/mapx/sphinx-latexpdf-mapx:1.0.2 sh -c \
       "rm -r _build/ & make latexpdf && cp _build/latex/mapx.pdf _static/ && make html"
 ```
 

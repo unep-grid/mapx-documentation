@@ -1,8 +1,8 @@
-Map Composer
+Map composer
 ============
 
 MapX enables users to create, customize and download maps on the
-platform through the **Map Composer** tool. The **Map Composer** exports
+platform through the **Map composer** tool. The **Map composer** exports
 all views displayed on the screen as well as the legends, abstracts and
 titles in PNG format. The tool is interactive and allows users to define
 the map resolution and to edit both the map layout and content.
@@ -10,7 +10,7 @@ the map resolution and to edit both the map layout and content.
 General description
 -------------------
 
-The **Map Composer** is an interactive workspace allowing to define the
+The **Map composer** is an interactive workspace allowing to define the
 dimensions and spatial extent of the data frame as well as the layout of
 other cartographic elements (title, legend(s), abstract(s)). Menu bars
 are present on each side of the window and allow to manage the
@@ -29,33 +29,33 @@ white background.
 How do I use the map composer?
 ------------------------------
 
-The **Map Composer** can be accessed from the menu located on the
+The **Map composer** can be accessed from the menu located on the
 right-side of your screen.
 
 .. only:: html
 
-   .. figure:: ./img/map-composer-menu-bar.png
+   .. figure:: ./img/map-composer-menu-bar.jpg
       :width: 450
       :align: center
       :class: with-shadow
 
-      Map Composer icon in the menu bar
+      Map composer icon in the menu bar
 
 .. only:: latex
 
-   .. figure:: ./img/map-composer-menu-bar.png
+   .. figure:: ./img/map-composer-menu-bar.jpg
       :width: 10cm
       :align: center
       :class: with-shadow
 
-      Map Composer icon in the menu bar
+      Map composer icon in the menu bar
 
 Before using the tool, activate all the views that will be exported on
 the map and choose carefully the order in which they are displayed on
-the map. This order will be saved on the **Map Composer** and cannot be
+the map. This order will be saved on the **Map composer** and cannot be
 modified while creating the map. Note that the cartographic elements
 (scale, north arrow, etc) will be loaded automatically into the **Map
-Composer**.
+composer**.
 
 How do I set up the map dimensions?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ methods:
             :align: center
             :class: with-shadow
 
-            Map Composer icon in the menu bar
+            Map composer icon in the menu bar
 
    2. Manual input:
    
@@ -140,7 +140,7 @@ the dedicated button.
 How do I design a new map?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Several tools are available in the **Map Composer** to configure your
+Several tools are available in the **Map composer** to configure your
 map. At any time, you can preview your work by selecting the **Preview**
 mode in the left side bar.
 
@@ -184,7 +184,7 @@ You can edit the following components of the map:
    use one of the elements displayed in your workspace, move it off the
    page (delimited by red border) to the darker area of the workspace using
    the center-handle. Alternatively, you can permanently delete an element
-   from the **Map Composer** by clicking the **X** button located in its
+   from the **Map composer** by clicking the **X** button located in its
    upper-right corner.
 
    .. only:: html

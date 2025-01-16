@@ -9,9 +9,9 @@ How to create a new vector layer from scratch in MapX?
 ------------------------------------------------------
 
 Users regardless of their privileges can access the **Draw tool** from
-the tool bar located in the top-right corner of the application.
+the menu bar located in the top-right corner of the application.
 
-.. figure:: ./img/draw-tool-menu-bar.png
+.. figure:: ./img/draw-tool-menu-bar.jpg
    :width: 450
    :align: center
    :class: with-shadow
@@ -22,7 +22,7 @@ the tool bar located in the top-right corner of the application.
 Once the tool is activated, users must first choose the type of
 geometries that will compose their dataset (no mixing allowed) as well
 as its name. Once done, the options specific to the draw tool appear in
-the tool bar. Depending on the type of geometries selected, there are 7
+the menu bar. Depending on the type of geometries selected, there are 7
 or 8 buttons allowing to perform the following actions (from left to
 right):
 

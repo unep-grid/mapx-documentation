@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.abspath("."))
 project = "MapX"
 author = "UNEP/GRID-Geneva"
 copyright = f'2014-{date.today().year}, UNEP/GRID-Geneva'
-version = "1.0.6"
+version = "1.0.7"
 
 # -- General configuration ---------------------------------------------------
 
@@ -30,6 +30,10 @@ exclude_patterns = ["_build", "**/.git", "Thumbs.db", ".DS_Store", "*.md"]
 html_sidebars = {
   "index": [],
 }
+
+html_css_files = [
+    'css/custom.css',
+]
 
 html_js_files = [
     'js/extension.js',

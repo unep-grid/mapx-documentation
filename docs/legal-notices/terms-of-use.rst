@@ -1,7 +1,7 @@
 Terms of use
 ============
 
-**Last Updated: 27 January 2025**
+**Last Updated: 28 January 2025**
 
 MapX is a platform developed and maintained by UNEP/GRID-Geneva
 ("we," "our," or "us") to support  environmental decision-making
@@ -58,11 +58,11 @@ the interface to restrict access and editing rights. Users are encouraged
 to configure these settings as needed to align with their preferences and
 data-sharing requirements.
 
-Users who choose to publish their data publicly on MapX must agree that
-all MapX users can view, reuse, and create new content based on their publicly
-available data. By making data publicly accessible, users consent to
-its broader use within the MapX ecosystem while retaining ownership of
-the original dataset.
+Users who publish their data publicly on MapX agree that all MapX users can
+view, reuse, create new content from, and export their public data, subject to
+the permissions of the applicable license. By making data publicly accessible,
+users consent to its broader use within the MapX ecosystem while retaining
+ownership of the original dataset.
 
 Licensing of data
 ^^^^^^^^^^^^^^^^^
@@ -86,17 +86,15 @@ version: 2020). These layers have been styled in accordance with
 the "Guidance for the Publication of Maps" issued by the United Nations
 in November 2020.
 
-Disclaimer
-~~~~~~~~~~
+The designations employed and the presentation of material do not imply
+the expression of any opinion whatsoever on the part of the Secretariat of
+the United Nations and UNEP/GRID-Geneva concerning the legal status of
+any country, territory, city or area or of its authorities, or concerning
+the delimitation of its frontiers or boundaries.
 
-- The designations employed and the presentation of material do not imply
-  the expression of any opinion whatsoever on the part of the Secretariat of
-  the United Nations and UNEP/GRID-Geneva concerning the legal status of
-  any country, territory, city or area or of its authorities, or concerning
-  the delimitation of its frontiers or boundaries.
-- Dotted line represents approximately the Line of Control in Jammu 
-  and Kashmir agreed upon by India and Pakistan. The final status of 
-  Jammu and Kashmir has not yet been agreed upon by the parties.
+- Final status of Jammu and Kashmir has not yet been agreed upon by the parties.
+  A dotted line represents approximately the Line of Control in Jammu and
+  Kashmir agreed upon by India and Pakistan.
 - Final boundary between the Republic of Sudan and the Republic of 
   South Sudan has not yet been determined.
 - Final status of the Abyei area is not yet determined.

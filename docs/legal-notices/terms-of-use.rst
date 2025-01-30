@@ -1,24 +1,24 @@
 Terms of use
 ============
 
-**Last Updated: 28 January 2025**
+**Last Updated: 30 January 2025**
 
-MapX is a platform developed and maintained by GRID-Geneva
-("we," "our," or "us") to support  environmental decision-making
-by transforming data into actionable information.
+MapX is a platform developed and maintained by GRID-Geneva ("we," "our,"
+or "us") to support  environmental decision-making by transforming data into
+actionable information.
 
-By accessing and using MapX, you agree to comply with these 
-**Terms of use**. If you do not agree to these terms, please discontinue 
-your use of MapX.
+By accessing and using MapX, you agree to comply with these  **Terms of use**.
+If you do not agree to these terms, please discontinue your use of MapX.
 
 General information
 -------------------
 
-MapX is a product of GRID-Geneva, a partnership between the United Nations
-Environment Programme (UNEP), the Swiss Federal Office for the Environment
-(FOEN), and the University of Geneva (UniGe). The platform is operated from
-Switzerland and adheres to applicable international and local laws, including
-those set by the United Nations.
+MapX is a product of The Global Resource Information Database - Geneva
+(GRID-Geneva), a partnership between the United Nations Environment Programme
+(UNEP), the Swiss Federal Office for the Environment (FOEN), and the University
+of Geneva (UniGe). The platform is operated from Switzerland and adheres to
+applicable international and local laws, including those set by the United
+Nations.
 
 User responsibilities
 ---------------------

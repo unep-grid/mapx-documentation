@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-**Last Updated: 27 January 2025**
+**Last Updated: 30 January 2025**
 
 MapX is a platform developed and maintained by GRID-Geneva ("we," "our,"
 or "us") to support  environmental decision-making by transforming data into

@@ -3,7 +3,7 @@ Terms of use
 
 **Last Updated: 28 January 2025**
 
-MapX is a platform developed and maintained by UNEP/GRID-Geneva
+MapX is a platform developed and maintained by GRID-Geneva
 ("we," "our," or "us") to support  environmental decision-making
 by transforming data into actionable information.
 
@@ -14,11 +14,11 @@ your use of MapX.
 General information
 -------------------
 
-MapX is a product of UNEP/GRID-Geneva, a partnership between the United 
-Nations Environment Programme (UNEP), the Swiss Federal Office for the 
-Environment (FOEN), and the University of Geneva (UniGe). The platform 
-is operated from Switzerland and adheres to applicable international 
-and local laws, including those set by the United Nations.
+MapX is a product of GRID-Geneva, a partnership between the United Nations
+Environment Programme (UNEP), the Swiss Federal Office for the Environment
+(FOEN), and the University of Geneva (UniGe). The platform is operated from
+Switzerland and adheres to applicable international and local laws, including
+those set by the United Nations.
 
 User responsibilities
 ---------------------
@@ -42,9 +42,9 @@ Intellectual property
 MapX ownership
 ^^^^^^^^^^^^^^
 
-All intellectual property rights for the MapX platform, including its 
-design, functionality, and content, belong to UNEP/GRID-Geneva and its 
-licensors unless explicitly stated otherwise.
+All intellectual property rights for the MapX platform, including its design,
+functionality, and content, belong to GRID-Geneva and its licensors unless
+explicitly stated otherwise.
 
 Data ownership and access
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -88,9 +88,9 @@ in November 2020.
 
 The designations employed and the presentation of material do not imply
 the expression of any opinion whatsoever on the part of the Secretariat of
-the United Nations and UNEP/GRID-Geneva concerning the legal status of
-any country, territory, city or area or of its authorities, or concerning
-the delimitation of its frontiers or boundaries.
+the United Nations and GRID-Geneva concerning the legal status of any country,
+territory, city or area or of its authorities, or concerning the delimitation
+of its frontiers or boundaries.
 
 - Final status of Jammu and Kashmir has not yet been agreed upon by the parties.
   A dotted line represents approximately the Line of Control in Jammu and
@@ -106,17 +106,16 @@ Disclaimer and limitation of liability
 --------------------------------------
 
 The content of MapX is provided by a range of data suppliers and does not
-necessarily reflect the views or policies of UNEP/GRID-Geneva. Materials
-on MapX are offered "as is", and UNEP/GRID-Geneva makes no warranties or
-representations regarding their accuracy, completeness, or reliability.
-MapX may also contain links to third-party websites, and UNEP/GRID-Geneva
-is not responsible for, nor does it necessarily endorse, any content on
-these external sites.
+necessarily reflect the views or policies of GRID-Geneva. Materials on MapX
+are offered "as is", and GRID-Geneva makes no warranties or representations
+regarding their accuracy, completeness, or reliability. MapX may also contain
+links to third-party websites, and GRID-Geneva is not responsible for, nor
+does it necessarily endorse, any content on these external sites.
 
-To the fullest extent permitted by law, UNEP/GRID-Geneva is not liable for
+To the fullest extent permitted by law, GRID-Geneva is not liable for
 any direct, indirect, incidental, or consequential damages arising from
 your use of MapX. This includes damages resulting from reliance on user-uploaded
-content or external links, for which UNEP/GRID-Geneva does not assume
+content or external links, for which GRID-Geneva does not assume
 any responsibility or liability.
 
 Platform availability
@@ -137,26 +136,26 @@ for detailed information on data collection, usage, and user rights.
 Modifications to the terms
 ---------------------------
 
-UNEP/GRID-Geneva reserves the right to update or modify these **Terms of 
-use** at any time. Changes will be communicated via the MapX platform or 
-email. Continued use of MapX following any updates constitutes 
-acceptance of the revised terms.
+GRID-Geneva reserves the right to update or modify these **Terms of use** at
+any time. Changes will be communicated via the MapX platform or email.
+Continued use of MapX following any updates constitutes  acceptance of
+the revised terms.
 
 Termination of access
 ---------------------
 
-UNEP/GRID-Geneva may suspend or terminate user access to MapX at its 
-discretion, without notice, for violations of these **Terms of use** or 
-other policies. Upon termination, any content uploaded by the user may 
-be anonymized to maintain platform functionality.
+GRID-Geneva may suspend or terminate user access to MapX at its  discretion,
+without notice, for violations of these **Terms of use** or other policies.
+Upon termination, any content uploaded by the user may  be anonymized
+to maintain platform functionality.
 
 Governing law and dispute resolution
 ------------------------------------
 
 These **Terms of use** are governed by Swiss law and the legal frameworks 
-of the United Nations. Disputes arising from these terms will be 
-subject to arbitration under international arbitration rules or 
-resolved through Swiss courts in Geneva, as appropriate.
+of the United Nations. Disputes arising from these terms will be subject
+to arbitration under international arbitration rules or  resolved through
+Swiss courts in Geneva, as appropriate.
 
 Contact information
 -------------------

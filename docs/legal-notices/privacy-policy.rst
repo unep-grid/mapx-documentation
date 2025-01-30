@@ -3,18 +3,17 @@ Privacy policy
 
 **Last Updated: 27 January 2025**
 
-MapX is a platform developed and maintained by UNEP/GRID-Geneva
-("we," "our," or "us") to support  environmental decision-making
-by transforming data into actionable information.
+MapX is a platform developed and maintained by GRID-Geneva ("we," "our,"
+or "us") to support  environmental decision-making by transforming data into
+actionable information.
 
-This **Privacy policy** explains how UNEP/GRID-Geneva collects, uses, and
-protects the personal data of users interacting with MapX. UNEP/GRID-Geneva
-is committed to safeguarding user privacy and adhering to applicable data
-protection laws, including the General Data Protection Regulation (GDPR).
+This **Privacy policy** explains how GRID-Geneva collects, uses, and protects
+the personal data of users interacting with MapX. GRID-Geneva is committed
+to safeguarding user privacy and adhering to applicable data protection laws,
+including the General Data Protection Regulation (GDPR).
 
-By accessing and using MapX, you agree to comply with this 
-**Privacy policy**. If you do not agree to these terms, please discontinue 
-your use of MapX.
+By accessing and using MapX, you agree to comply with this **Privacy policy**.
+If you do not agree to these terms, please discontinue your use of MapX.
 
 Who we are
 ----------
@@ -73,10 +72,10 @@ We collect user data for the following purposes:
 How we use and protect your data
 --------------------------------
 
-1. **Restricted access**: User data is accessed only by authorized UNEP/GRID-
-   Geneva personnel. Occasionally, consultants may require access to perform
-   specific tasks; in such cases, they are bound by a Non-Disclosure Agreement
-   (NDA). User email addresses may be visible in metadata to identify creators,
+1. **Restricted access**: User data is accessed only by authorized GRID-Geneva
+   personnel. Occasionally, consultants may require access to perform specific
+   tasks; in such cases, they are bound by a Non-Disclosure Agreement (NDA).
+   User email addresses may be visible in metadata to identify creators,
    editors, or individuals with access to specific MapX materials; however,
    this information is never shared outside the MapX interface.
 

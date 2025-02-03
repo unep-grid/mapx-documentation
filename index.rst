@@ -3,7 +3,7 @@ Welcome to the MapX Documentation!
 
 This document details `MapX <https://unepgrid.ch/en/mapx>`__, an open-source
 web application designed for managing and visualizing geospatial data,
-developed by `UNEP/GRID-Geneva <https://unepgrid.ch/en>`__.
+developed by `GRID-Geneva <https://unepgrid.ch/en>`__.
 
 .. figure:: ./docs/img/home-demo.gif
    :align: center
@@ -13,16 +13,15 @@ developed by `UNEP/GRID-Geneva <https://unepgrid.ch/en>`__.
    statistical data.
 
 Although, the content has been prepared and reviewed with utmost care
-by the authors, errors may still exist. As such, UNEP/GRID-Geneva and
-the authors disclaim any responsibility or liability for errors and
-their potential impact.
+by the authors, errors may still exist. As such, GRID-Geneva and the authors
+disclaim any responsibility or liability for errors and their potential impact.
 
 We welcome any feedback regarding inaccuracies you may encounter and
 encourage you to contact us at info@mapx.org.
 
 The documentation features both internal and external links: internal
 links guide you within the document, whereas external links lead to
-web addresses that may not be associated with UNEP/GRID-Geneva.
+web addresses that may not be associated with GRID-Geneva.
 
 .. tip::
    To open links in new tabs, the following shortcuts can be used:

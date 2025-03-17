@@ -1,14 +1,15 @@
 Privacy policy
 ==============
 
-**Last Updated: 30 January 2025**
+**Last Updated: 17 March 2025**
 
-MapX is a platform developed and maintained by GRID-Geneva ("we," "our,"
-or "us") to support  environmental decision-making by transforming data into
-actionable information.
+MapX is a platform developed and maintained by the GRID-Geneva unit of
+the University of Geneva (hereinafter UNIGE/GRID) to support environmental
+decision-making by transforming data into actionable information. Throughout
+this document, 'we,' 'our,' or 'us' refers to UNIGE/GRID.
 
-This **Privacy policy** explains how GRID-Geneva collects, uses, and protects
-the personal data of users interacting with MapX. GRID-Geneva is committed
+This **Privacy policy** explains how UNIGE/GRID collects, uses, and protects
+the personal data of users interacting with MapX. UNIGE/GRID is committed
 to safeguarding user privacy and adhering to applicable data protection laws,
 including the General Data Protection Regulation (GDPR).
 
@@ -72,7 +73,7 @@ We collect user data for the following purposes:
 How we use and protect your data
 --------------------------------
 
-1. **Restricted access**: User data is accessed only by authorized GRID-Geneva
+1. **Restricted access**: User data is accessed only by authorized UNIGE/GRID
    personnel. Occasionally, consultants may require access to perform specific
    tasks; in such cases, they are bound by a Non-Disclosure Agreement (NDA).
    User email addresses may be visible in metadata to identify creators,
@@ -137,8 +138,6 @@ Contact us
 If you have questions about this **Privacy policy** or our data practices,
 please contact us:
 
-|image1|
-
 **Physical address**
 
 | GRID-Geneva
@@ -160,7 +159,3 @@ please contact us:
 
 By using MapX, you acknowledge that you have read, understood, and agree to
 the terms outlined in this **Privacy policy**.
-
-.. |image1| image:: ../../_static/unepgrid_logo.png
-   :class: spacer
-   :width: 7.5cm

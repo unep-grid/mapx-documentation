@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-**Last Updated: 17 March 2025**
+**Last Updated: 19 March 2025**
 
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental
@@ -31,16 +31,16 @@ What data we collect
 
 We collect the following data from MapX users:
 
-- **User email**
+- **User email**: For login, authentication, and communication purposes.
 
 - **Device and usage information**:
 
-  - Browser information
-  - Hardware model
-  - Operating system
-  - IP address
-  - Time of MapX access
-  - Type of content viewed or engaged with during MapX use
+  - **Browser information**: We validate encrypted session tokens using basic
+    user agent data, which is never stored on our server.
+  - **IP address**: We may collect your IP address for security and
+    analytics purposes.
+  - **Content interaction**: Some interactions and timestamps are logged for
+    project analytics.
 
 Why we collect this data
 ------------------------

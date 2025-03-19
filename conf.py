@@ -11,8 +11,8 @@ sys.path.insert(0, os.path.abspath("."))
 # -- Project configuration ---------------------------------------------------
 
 project = "MapX"
-author = "UNEP/GRID-Geneva"
-copyright = f'2014-{date.today().year}, UNEP/GRID-Geneva'
+author = "GRID-Geneva"
+copyright = f'2014-{date.today().year}, GRID-Geneva'
 version = "1.0.8"
 
 # -- General configuration ---------------------------------------------------

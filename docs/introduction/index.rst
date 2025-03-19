@@ -3,7 +3,7 @@ Introduction
 
 `MapX <https://unepgrid.ch/en/mapx>`__ is an open-source online
 application for managing and visualizing geospatial data on natural
-resources, developed by `UNEP/GRID-Geneva <https://unepgrid.ch/en>`__, a
+resources, developed by `GRID-Geneva <https://unepgrid.ch/en>`__, a
 data centre resulting from the partnership between UN Environment
 Programme (UNEP), the Swiss Federal Office for the Environment, and the
 University of Geneva. Field applications of MapX are varied and include

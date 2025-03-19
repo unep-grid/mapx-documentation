@@ -1,6 +1,6 @@
 <img src="_static/mapx_logo.png" width="200" alt="MapX logo">
 
-This repository is meant to write and manage the official documentation of [MapX](https://app.mapx.org/) ([source code](https://github.com/unep-grid/mapx)), an online platform for managing geospatial data on natural resources, developed by [UNEP/GRID-Geneva](https://unepgrid.ch/en) - a data centre resulting from the partnership between [UN Environment Programme](https://www.unep.org/), the Swiss [Federal Office for the Environment](https://www.bafu.admin.ch/) and the [University of Geneva](https://unige.ch/).
+This repository is meant to write and manage the official documentation of [MapX](https://app.mapx.org/) ([source code](https://github.com/unep-grid/mapx)), an online platform for managing geospatial data on natural resources, developed by [GRID-Geneva](https://unepgrid.ch/en) - a data centre resulting from the partnership between [UN Environment Programme](https://www.unep.org/), the Swiss [Federal Office for the Environment](https://www.bafu.admin.ch/) and the [University of Geneva](https://unige.ch/).
 
 ## Building the documentation
 
@@ -19,6 +19,6 @@ docker run --rm \
 
 ## Disclaimer
 
-Although, the content has been prepared and reviewed with utmost care by the authors, errors may still exist. As such, UNEP/GRID-Geneva and the authors disclaim any responsibility or liability for errors and their potential impact.
+Although, the content has been prepared and reviewed with utmost care by the authors, errors may still exist. As such, GRID-Geneva and the authors disclaim any responsibility or liability for errors and their potential impact.
 
 We welcome any feedback regarding inaccuracies you may encounter and encourage you to contact us at <info@mapx.org>.

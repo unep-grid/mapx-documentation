@@ -93,7 +93,7 @@ Superusers have access to advanced MapX features to manage the
 application and its content. For security and confidentiality reasons
 only MapX instance managers should have this role. For
 https://app.mapx.org/, superusers are the MapX development team within
-UNEP/GRID-Geneva.
+GRID-Geneva.
 
 .. _role-developer:
 

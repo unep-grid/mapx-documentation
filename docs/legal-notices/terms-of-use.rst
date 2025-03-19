@@ -81,6 +81,43 @@ each dataset. Licensing details, including access restrictions and usage
 permissions, are clearly stated in the metadata for each dataset.
 Users are encouraged to review and adhere to these terms before using the data.
 
+Attribution of data
+^^^^^^^^^^^^^^^^^^^
+
+When using, printing, downloading, or extracting data from the MapX platform,
+proper attribution is required in accordance with the licensing terms of
+the datasets. This includes, but is not limited to, datasets provided by Mapbox,
+OpenStreetMap, the United Nations, and any user-integrated content. Users are
+responsible for ensuring that they provide appropriate attribution when sharing,
+reusing, printing, downloading, or exporting data or maps.
+
+**General guidelines**:
+
+- For publicly available datasets, users must give credit to the original data
+  providers as specified in the licensing terms.
+- For any user-generated content, attribution should acknowledge the original
+  creator or publisher as required by the dataset's license or terms.
+- If the data is printed, downloaded, or extracted from MapX, users must ensure
+  that the attribution remains visible and intact, including any relevant
+  information required by the dataset's license.
+- **Mapbox attribution**: Maps that use Mapbox map designs, data, or software
+  must display the Mapbox logo and text attribution, as outlined by the
+  `Mapbox Attribution Guidelines
+  <https://docs.mapbox.com/help/dive-deeper/attribution/>`__. The attribution
+  must remain clearly visible and comply with Mapbox's guidelines.
+- **United Nations attribution**: The international and administrative
+  boundaries, along with the first subnational level and country names displayed
+  in the MapX base map, are sourced from the United Nations Geospatial Data.
+  Maps printed or exported from MapX that display these boundaries or country
+  names must provide proper attribution to the United Nations. In addition,
+  the official United Nations disclaimer must accompany the maps. Please refer
+  to the next section for details.
+- **OpenStreetMap attribution**: Maps printed or exported from MapX must provide
+  proper attribution to OpenStreetMap as most of the data displayed in the MapX
+  base map are provided by OpenStreetMap. For detailed attribution guidelines,
+  please refer to the `OpenStreetMap Attribution Guidelines.
+  <https://osmfoundation.org/wiki/Licence/Attribution_Guidelines>`__
+
 United Nations Geospatial Data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

@@ -51,7 +51,7 @@ The MapX team
 
 .. toctree::
    :maxdepth: 3
-   :caption: User Interface
+   :caption: User interface
 
    docs/user-interface/index
 
@@ -97,3 +97,8 @@ The MapX team
 
    docs/information-developers/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Legal notices
+
+   docs/legal-notices/index

@@ -1,7 +1,7 @@
-Privacy policy
+Privacy Policy
 ==============
 
-**Last Updated: 19 March 2025**
+**Last Updated: 26 March 2025**
 
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental
@@ -16,7 +16,7 @@ including the General Data Protection Regulation (GDPR).
 By accessing and using MapX, you agree to comply with this **Privacy policy**.
 If you do not agree to these terms, please discontinue your use of MapX.
 
-Who we are
+Who We Are
 ----------
 
 The Global Resource Information Database - Geneva (GRID-Geneva) is a partnership
@@ -26,7 +26,7 @@ primary role is to transform data into actionable information to support
 environmental decision-making. For more details about our organization, please
 visit `https://unepgrid.ch/ <https://unepgrid.ch/en>`__.
 
-What data we collect
+What Data We Collect
 --------------------
 
 We collect the following data from MapX users:
@@ -42,7 +42,7 @@ We collect the following data from MapX users:
   - **Content interaction**: Some interactions and timestamps are logged for
     project analytics.
 
-Why we collect this data
+Why We Collect This Data
 ------------------------
 
 We collect user data for the following purposes:
@@ -70,7 +70,7 @@ We collect user data for the following purposes:
    editors. Editors are advised to include only information appropriate for
    sharing and to avoid adding sensitive personal details.
 
-How we use and protect your data
+How We Use and Protect Your Data
 --------------------------------
 
 1. **Restricted access**: User data is accessed only by authorized UNIGE/GRID
@@ -91,7 +91,7 @@ How we use and protect your data
    consultants under NDA who require access for MapX-related purposes. Data is
    never sold or shared for commercial or marketing purposes.
 
-User rights
+User Rights
 -----------
 
 As a user, you have the following rights under `GDPR <https://gdpr.eu/>`__:
@@ -106,7 +106,7 @@ To exercise these rights, please send an email to
 `info@mapx.org <mailto:info@mapx.org>`_. Requests will be processed
 promptly and in accordance with applicable legal requirements.
 
-Data retention
+Data Retention
 --------------
 
 We retain user data only as long as necessary to fulfil the purposes outlined
@@ -115,7 +115,56 @@ ensure it is securely removed from our systems. Datasets uploaded by users that
 are utilized by others will be anonymized (i.e., associated with a generic user)
 and retained to ensure continued functionality.
 
-Updates to this policy
+External Services, Third-Party Data Providers, and User Content
+---------------------------------------------------------------
+
+Third-Party Services and Integrations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+MapX may incorporate links to or integrations with external third-party services
+and data providers. These third parties operate independently of MapX and
+maintain separate data collection and processing protocols governed by their
+respective privacy policies. Users are hereby advised to review the applicable
+privacy policies of these third-party entities to obtain a comprehensive
+understanding of their data handling practices.
+
+User-Generated Content
+^^^^^^^^^^^^^^^^^^^^^^
+
+Content submitted by users to the MapX platform, including but not limited to
+datasets, analytical materials, comments, visualizations, and other
+contributions ("User Content"), may contain personal data or confidential
+information over which MapX exercises no direct control or supervision.
+The management and dissemination of such User Content is subject to and
+governed by the privacy configuration and policy parameters selected by
+the submitting user at the time of submission.
+
+MapX strongly recommends that users exercise prudent judgment and appropriate
+caution when disclosing personal information or confidential data through
+any User Content submitted to the platform. Users are advised to refrain from
+including sensitive personal information in publicly accessible User Content.
+
+Limitation of Liability
+^^^^^^^^^^^^^^^^^^^^^^^
+
+This **Privacy Policy** applies exclusively to data collected and processed
+directly by MapX. MapX expressly disclaims any responsibility or liability for:
+
+1. The data collection, processing, or retention practices of third-party
+   services integrated with or linked from the MapX platform;
+
+2. Any consequences arising from a user's decision to disclose personal
+   information through User Content on the platform.
+
+By accessing or utilizing MapX services, users expressly acknowledge and accept
+that MapX bears no liability for the actions, omissions, or content provided by
+external entities or platform users.
+
+This provision shall be interpreted in accordance with applicable Swiss data
+protection laws and regulations, including but not limited to the Federal Act
+on Data Protection (FADP) and relevant cantonal provisions.
+
+Updates to This Policy
 ----------------------
 
 We may update this **Privacy policy** to reflect changes in our practices or
@@ -132,7 +181,7 @@ the updated policy.
 The "Last Updated" date at the top of this document indicates the most recent
 revision.
 
-Contact us
+Contact Us
 ----------
 
 If you have questions about this **Privacy policy** or our data practices,

@@ -1,7 +1,7 @@
-Terms of use
+Terms of Use
 ============
 
-**Last Updated: 20 March 2025**
+**Last Updated: 26 March 2025**
 
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental
@@ -11,7 +11,7 @@ this document, 'we,' 'our,' or 'us' refers to UNIGE/GRID.
 By accessing and using MapX, you agree to comply with these  **Terms of use**.
 If you do not agree to these terms, please discontinue your use of MapX.
 
-General information
+General Information
 -------------------
 
 MapX is a product of the University of Geneva (UNIGE) acting within
@@ -25,10 +25,10 @@ Throughout this document, the Swiss Federal Office for the Environment,
 the United Nations Environment Programme, and the University of Geneva will
 be collectively referred to as the 'GRID-Geneva partners'.
 
-User responsibilities
+User Responsibilities
 ---------------------
 
-Acceptable use
+Acceptable Use
 ^^^^^^^^^^^^^^
 
 Users agree to:
@@ -41,17 +41,17 @@ Users agree to:
 - Avoid actions that could damage, disable, overburden, or impair MapX 
   or interfere with another user's experience.
 
-Intellectual property
+Intellectual Property
 ---------------------
 
-MapX ownership
+MapX Ownership
 ^^^^^^^^^^^^^^
 
 All intellectual property rights for the MapX platform, including its design,
 functionality, and content, belong to UNIGE/GRID and its licensors unless
 explicitly stated otherwise.
 
-Data ownership and access
+Data Ownership and Access
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Data uploaded to a workspace in MapX is owned by the user who uploaded it.
@@ -69,7 +69,7 @@ the permissions of the applicable license. By making data publicly accessible,
 users consent to its broader use within the MapX ecosystem while retaining
 ownership of the original dataset.
 
-Licensing of data
+Licensing of Data
 ^^^^^^^^^^^^^^^^^
 
 Data available on MapX may be subject to a variety of licensing terms, covering
@@ -81,7 +81,7 @@ each dataset. Licensing details, including access restrictions and usage
 permissions, are clearly stated in the metadata for each dataset.
 Users are encouraged to review and adhere to these terms before using the data.
 
-Attribution of data
+Attribution of Data
 ^^^^^^^^^^^^^^^^^^^
 
 When using, sharing, printing, downloading, or extracting data or maps from
@@ -143,15 +143,16 @@ the delimitation of its frontiers or boundaries.
   United Kingdom of Great Britain and Northern Ireland concerning 
   sovereignty over the Falkland Islands (Malvinas).
 
-Disclaimer and limitation of liability
+Disclaimer and Limitation of Liability
 --------------------------------------
 
 The content of MapX is provided by a range of data suppliers and does not
 necessarily reflect the views or policies of the GRID-Geneva partners. Materials
 on MapX are offered "as is", and the GRID-Geneva partners make no warranties or
-representations regarding their accuracy, completeness, or reliability.
-MapX may also contain links to third-party websites, for which the GRID-Geneva
-partners assume no responsibility and do not necessarily endorse any content.
+representations regarding their content, accuracy, completeness, reliability, or
+legality. MapX may also contain links to third-party websites, for which
+the GRID-Geneva partners assume no responsibility and do not necessarily
+endorse any content.
 
 To the fullest extent permitted by law, the GRID-Geneva partners are not liable
 for any direct, indirect, incidental, or consequential damages arising from
@@ -159,14 +160,14 @@ your use of MapX. This includes damages resulting from reliance on user-uploaded
 content or external links, for which the GRID-Geneva partners assume no
 responsibility or liability.
 
-Platform availability
+Platform Availability
 ---------------------
 
 MapX is provided "as is", and while UNIGE/GRID strive to ensure uninterrupted 
 access and accuracy of content, UNIGE/GRID do not guarantee error-free 
 operation or the completeness of information.
 
-Privacy policy
+Privacy Policy
 --------------
 
 MapX is committed to protecting user data in accordance with its 
@@ -174,7 +175,7 @@ MapX is committed to protecting user data in accordance with its
 Regulation (GDPR). Please review our :doc:`Privacy policy <privacy-policy>`
 for detailed information on data collection, usage, and user rights.
 
-Modifications to the terms
+Modifications to The Terms
 ---------------------------
 
 UNIGE/GRID reserves the right to update or modify these **Terms of use** at
@@ -182,7 +183,7 @@ any time. Changes will be communicated via the MapX platform or email.
 Continued use of MapX following any updates constitutes  acceptance of
 the revised terms.
 
-Termination of access
+Termination of Access
 ---------------------
 
 UNIGE/GRID may suspend or terminate user access to MapX at its  discretion,
@@ -190,7 +191,7 @@ without notice, for violations of these **Terms of use** or other policies.
 Upon termination, any content uploaded by the user may  be anonymized
 to maintain platform functionality.
 
-Governing law and dispute resolution
+Governing Law and Dispute Resolution
 ------------------------------------
 
 These **Terms of use** are governed by Swiss law and the legal frameworks 
@@ -198,7 +199,7 @@ of the United Nations. Disputes arising from these terms will be subject
 to arbitration under international arbitration rules or  resolved through
 Swiss courts in Geneva, as appropriate.
 
-Contact information
+Contact Information
 -------------------
 
 For questions or concerns about these **Terms of use**, please contact us:

@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.abspath("."))
 project = "MapX"
 author = "GRID-Geneva"
 copyright = f'2014-{date.today().year}, GRID-Geneva'
-version = "1.0.8"
+version = "1.0.9"
 
 # -- General configuration ---------------------------------------------------
 
@@ -48,8 +48,8 @@ html_theme_options = {
   "secondary_sidebar_items": ["page-toc"],
   "external_links": [],
     "header_links_before_dropdown": 3,
-    "footer_start": ["copyright", "contact"],
-    "footer_end": ["sphinx-version", "theme-version"],
+    "footer_start": ["contact"],
+    "footer_end": ["copyright"],
 }
 
 latex_elements = {

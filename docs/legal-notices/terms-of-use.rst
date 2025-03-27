@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-**Last Updated: 26 March 2025**
+**Last Updated: 27 March 2025**
 
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental

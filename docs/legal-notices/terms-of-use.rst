@@ -160,6 +160,64 @@ your use of MapX. This includes damages resulting from reliance on user-uploaded
 content or external links, for which the GRID-Geneva partners assume no
 responsibility or liability.
 
+Third-Party Integration and Software Development Kit Usage
+----------------------------------------------------------
+
+Software Development Kit Embedding and Compliance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The MapX Software Development Kit (SDK) is a comprehensive toolset that enables
+developers to seamlessly integrate the MapX single page application into web
+projects, providing access to comprehensive geospatial environmental data.
+
+Developers and organizations integrating MapX through the SDK must comply with
+the following requirements:
+
+Mandatory Terms of Use Disclosure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When embedding MapX via the SDK, the host website must either:
+
+1. Explicitly enable the MapX **Privacy Policy** and **Terms of Use** during
+   the initialization of the MapX instance, ensuring users are informed of and
+   agree to these terms before interaction, or
+
+2. Provide a clear and direct link to the full MapX **Terms of Use** and
+   **Privacy Policy** on the host website, positioned prominently and
+   accessible before users interact with the embedded MapX instance.
+
+Responsibility Disclaimer
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- UNIGE/GRID assumes no responsibility for MapX integrations on domains other
+  than those directly managed by UNIGE/GRID, including but not limited to
+  `https://app.mapx.org <https://app.mapx.org>`__.
+
+- The host website is solely responsible for ensuring compliance with these
+  **Terms of Use** and maintaining appropriate user consent mechanisms.
+
+- Host websites must ensure that the embedding of MapX does not violate
+  the **Acceptable Use** policy outlined in these **Terms of Use**.
+
+- Any misuse or inappropriate integration may result in the revocation of
+  SDK access.
+
+Limitation of Liability for Third-Party Integrations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In addition to the existing Disclaimer and Limitation of Liability section,
+the following provisions specifically apply to SDK integrations:
+
+- UNIGE/GRID is not liable for any damages, losses, or consequences arising
+  from the integration of MapX on third-party websites.
+
+- The host website assumes full responsibility for ensuring proper
+  implementation, user consent, and compliance with these **Terms of Use**
+  when embedding MapX.
+
+- UNIGE/GRID reserves the right to request immediate removal of any MapX
+  integration that does not meet the specified compliance requirements.
+
 Platform Availability
 ---------------------
 

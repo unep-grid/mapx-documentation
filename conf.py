@@ -1,6 +1,7 @@
 import os
 import sys
 from datetime import date
+
 sys.path.insert(0, os.path.abspath("."))
 
 # Configuration file for the Sphinx documentation builder.
@@ -12,50 +13,48 @@ sys.path.insert(0, os.path.abspath("."))
 
 project = "MapX"
 author = "GRID-Geneva"
-copyright = f'2014-{date.today().year}, GRID-Geneva'
-version = "1.0.9"
+copyright = f"2014-{date.today().year}, GRID-Geneva"
+version = "1.1.0"
 
 # -- General configuration ---------------------------------------------------
 
 extensions = [
-"myst_parser",
-"sphinx.ext.imgconverter",
-"sphinx_search.extension",
-"sphinx_new_tab_link"
+    "myst_parser",
+    "sphinx.ext.imgconverter",
+    "sphinx_search.extension",
+    "sphinx_new_tab_link",
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "**/.git", "Thumbs.db", ".DS_Store", "*.md"]
 
 html_sidebars = {
-  "index": [],
+    "index": [],
 }
 
 html_css_files = [
-    'css/custom.css',
+    "css/custom.css",
 ]
 
 html_js_files = [
-    'js/extension.js',
+    "js/extension.js",
 ]
 
 
-html_context = {
-   "default_mode": "dark"
-}
+html_context = {"default_mode": "dark"}
 
 html_theme_options = {
-  "secondary_sidebar_items": ["page-toc"],
-  "external_links": [],
+    "secondary_sidebar_items": ["page-toc"],
+    "external_links": [],
     "header_links_before_dropdown": 3,
     "footer_start": ["contact"],
     "footer_end": ["copyright"],
 }
 
 latex_elements = {
-    'papersize': 'letterpaper',
-    'pointsize': '11pt',
-    'preamble': r"""
+    "papersize": "letterpaper",
+    "pointsize": "11pt",
+    "preamble": r"""
     \usepackage{charter}
     \usepackage[defaultsans]{lato}
     \usepackage{inconsolata}

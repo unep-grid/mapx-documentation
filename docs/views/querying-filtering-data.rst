@@ -1,20 +1,18 @@
 Querying and filtering data
 ===========================
 
-When a feature is selected/clicked on the map, a pop-up showing its
-attribute values is displayed (panel in the lower right corner).
-The list of attributes is determined by the view creator in its settings
-(i.e., secondary attributes). It is possible to filter the data displayed
-on the map from this pop-up by clicking on any attribute values
-(vector views only). By doing so, only features having the selected attribute
-value will be displayed on the map. If several values are clicked, filters
-will be combined with the logical operator ``OR`` meaning that all features
-satisfying at least one filter/condition will be displayed on the map.
-To return to the initial state of the view, several options are available:
+When a feature is clicked on the map, a pop-up panel appears in the lower right
+corner, displaying its attribute values in a table format. The list of
+attributes shown is determined by the view creator's settings, specifically
+secondary attributes. For vector views, you can filter one or more selected
+features from the pop-up by clicking the checkboxes in the first column of
+the table. Additionally, clicking on a value in the table highlights
+all features sharing that value on the map. To reset the view to
+its initial state, several options are available:
 
-- Close the pop-up by clicking on the |button| button (lower left corner)
-- :doc:`Reset the view <tools>`
-- Click on a location on the map which does not contain features
+- :doc:`Reset the view <tools>`.
+- Close the pop-up by clicking on the |button| button (lower left corner).
+- Click on a location on the map which does not contain features.
 
 .. figure:: ./img/view-pop-up-filter.gif
    :align: center

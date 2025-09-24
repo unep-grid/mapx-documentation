@@ -33,7 +33,7 @@ Setting users roles and permissions
 -----------------------------------
 
 .. figure:: ./img/roles-admin-panel.png
-   :width: 350
+   :width: 550
    :align: center
    :class: with-shadow
 

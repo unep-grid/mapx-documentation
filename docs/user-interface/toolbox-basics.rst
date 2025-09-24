@@ -6,7 +6,8 @@ content in MapX, managing projects and members, and perform some basic
 analysis on their data. Depending on the user's role in the project, the
 list of available tools varies. The tools presented in this section are
 those available to users with a public role. Advanced tools are
-presented and described in the :doc:`Advanced tools <../advanced-tools/index>` chapter.
+presented and described in the :doc:`Advanced tools <../advanced-tools/index>`
+chapter.
 
 .. only:: html
 
@@ -109,16 +110,7 @@ Utilities
    the MapX search tool API is provided in this tool. The API technical
    documentation is available
    `here <https://github.com/unep-grid/mapx/wiki/Search-tool-API>`__.
-5. **Theme configuration**: The MapX user interface as well as the
-   basemap can be customized from this tool. For each element, users can
-   enable/disable its display, and change its color and/or opacity. If
-   the element is a text/label, its font can also be changed. These
-   modifications are only effective during the current session and will
-   therefore not be preserved if MapX is reloaded. However, if you want
-   to keep your custom theme for future sessions, it is possible to
-   export it in ``JSON`` format on your computer and then import it as
-   needed.
-6. **MapX version and changelog**: This tool allows users to consult the
+5. **MapX version and changelog**: This tool allows users to consult the
    version of MapX they are using as well as the change-log of the
    application listing all the improvements, bug fixes and new
    functionalities deployed over the versions.
@@ -126,7 +118,7 @@ Utilities
 .. only:: html
 
    .. figure:: ./img/changelog.png
-      :width: 400
+      :width: 500
       :align: center
       :class: with-shadow
 
@@ -140,3 +132,115 @@ Utilities
       :class: with-shadow
 
       MapX changelog
+
+Theme configuration
+-------------------
+
+The **Theme manager** enables users to customize the MapX interface and basemap.
+Users can select an existing theme for the current session, modify it, or create
+a new one. For each element, users can toggle its visibility and adjust
+its color and opacity. Text and label elements also allow font customization.
+Multiple themes can be created and saved either for the current session or
+locally in the browser. Project administrators can leverage the **Theme
+manager** to create and assign a default theme for their project.
+
+How do I use the Theme manager?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. only:: html
+
+   .. figure:: ./img/theme-manager.jpg
+      :width: 500
+      :align: center
+      :class: with-shadow
+
+      MapX Theme Manager
+
+.. only:: latex
+
+   .. figure:: ./img/theme-manager.jpg
+      :width: 10cm
+      :align: center
+      :class: with-shadow
+
+      MapX Theme Manager
+
+1. **Theme selection:** This field allows you to select the theme to edit.
+   By default, the current theme is selected in the manager.
+2. **Search:** This field enables keyword-based searching within the editable
+   elements of the theme.
+3. **Editable elements:** Interface or basemap elements that can be edited.
+   For each element, you can toggle visibility and adjust color and opacity.
+4. **Font selection:** For text and label elements, the font can be modified
+   using the dropdown list.
+5. **Theme management tools:**
+
+   1. **Close:** Closes the **Theme manager**.
+   2. **Import:** Imports a local theme (from your computer) into the manager
+      in ``JSON`` format.
+   3. **Export:** Saves a theme locally (to your computer) in ``JSON`` format.
+   4. **Duplicate:** Copies and saves the currently selected theme with
+      your modifications.
+
+      .. only:: html
+
+         .. figure:: ./img/theme-manager-duplicate.png
+            :width: 400
+            :align: center
+            :class: with-shadow
+
+            Theme Storage Location
+
+      .. only:: latex
+
+         .. figure:: ./img/theme-manager-duplicate.png
+            :width: 8cm
+            :align: center
+            :class: with-shadow
+
+            Theme Storage Location
+
+      The duplication process requires the user to define an ID, a label, and
+      a description for the new theme. By default, the values shown in the panel
+      are those of the theme being copied.
+      
+      The lower part of the panel (highlighted in blue) allows you to configure
+      the combination of :ref:`Navigation buttons <navigation-buttons>`, enabled
+      or disabled, that will trigger the display of your theme.
+      Other combinations will display the default MapX themes. 
+
+      Once created, the following options are provided for saving a theme:
+
+      .. only:: html
+
+         .. figure:: ./img/theme-manager-storage.png
+            :width: 400
+            :align: center
+            :class: with-shadow
+
+            Theme Storage Location
+
+      .. only:: latex
+
+         .. figure:: ./img/theme-manager-storage.png
+            :width: 8cm
+            :align: center
+            :class: with-shadow
+
+            Theme Storage Location
+
+      - **Session, temporary:** The theme will only be available for the current
+        session and will be removed if the project is changed or MapX is
+        restarted.
+      - **This device, any project:** The theme will be stored locally in your
+        browser and will be accessible across all projects.
+      - **Database, for this project:** The theme will be saved permanently to
+        the MapX database. Currently, only project administrators can perform
+        this action.
+
+   5. **Update:** Modifies an existing theme.
+   6. **Delete:** Deletes a theme. Default MapX themes and the theme set as
+      the project default cannot be deleted.
+
+      .. warning::
+         Deletion is permanent and cannot be undone!

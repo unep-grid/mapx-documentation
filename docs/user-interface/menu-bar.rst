@@ -6,6 +6,8 @@ allow interaction with the map and provides access to some of the MapX
 tools. All of these buttons/tools are accessible to users regardless of
 their role in MapX.
 
+.. _navigation-buttons:
+
 Navigation buttons
 ~~~~~~~~~~~~~~~~~~
 

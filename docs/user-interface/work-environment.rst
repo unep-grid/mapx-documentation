@@ -52,6 +52,35 @@ the interface.
 
       List of projects available to the user
 
+Project information
+-------------------
+
+Next to the project title, users will find an **information (i) button**.
+Clicking this button provides access to essential details about the project.
+This includes information about the project's organisation, relevant statistics,
+and project-specific Terms of use. These terms are designed to complement
+the general :doc:`MapX terms <../legal-notices/terms-of-use>`, ensuring that
+users have a complete understanding of the rules and guidelines that apply to
+the current project.
+
+.. only:: html
+
+   .. figure:: ./img/project-info.png
+      :width: 450
+      :align: center
+      :class: with-shadow
+
+      Project information
+
+.. only:: latex
+
+   .. figure:: ./img/project-info.png
+      :width: 10cm
+      :align: center
+      :class: with-shadow
+
+      Project information
+
 Login
 -----
 

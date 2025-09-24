@@ -38,7 +38,7 @@ Selecting the source to edit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: ./img/edit-sources-selection.png
-   :width: 400
+   :width: 450
    :align: center
    :class: with-shadow
 
@@ -59,7 +59,7 @@ interactive field. All the information listed above are parsed and
 matching texts are underlined.
 
 .. figure:: ./img/edit-sources-selection.gif
-   :width: 400
+   :width: 450
    :align: center
    :class: with-shadow
 
@@ -154,6 +154,16 @@ but it is possible to move them using the **Set columns order** tool
    views. Therefore, the view settings need to be updated to use them in a
    dashboard or visualize them (i.e., attributes table, pop-up) (more
    details :ref:`here <configuring-view>`).
+
+Add identity column
+^^^^^^^^^^^^^^^^^^^
+
+This tool allows to add an `identity column
+<https://www.postgresql.org/docs/current/ddl-identity-columns.html>`__ to
+a source. An identity column is a special type of column that automatically
+generates a unique numeric value for each row, providing a reliable identifier.
+This is especially useful when downloading sources from MapX, as it ensures
+each row can be uniquely referenced.
 
 Remove column
 ^^^^^^^^^^^^^

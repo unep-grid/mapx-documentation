@@ -13,7 +13,7 @@ interact, export the data displayed in the map.
    MapX user interface elements
 
 
-The MapX user interface is made up of 4 distinct elements which complete
+The MapX user interface is made up of 3 distinct elements which complete
 the interactive map and which are:
 
 1. The **Work environment** contains several key elements of MapX: the
@@ -28,12 +28,9 @@ the interactive map and which are:
 3. The **Notification panel** informs users if an error has occurred in
    MapX. In addition, some tools (e.g., download) send information to
    users via the notification system.
-4. The scale of the map as well as the coordinates of the pointer are
-   displayed in this area.
 
 .. hint::
-   Except for the scale and pointer coordinates, other interface
-   elements can be hidden by clicking on the square buttons located in the
+   Elements can be hidden by clicking on the square buttons located in the
    corners of the application.
 
 .. toctree::

@@ -6,9 +6,9 @@ Terms of Use
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental
 decision-making by transforming data into actionable information. Throughout
-this document, 'we,' 'our,' or 'us' refers to UNIGE/GRID.
+this document, "we," "our," or "us" refers to UNIGE/GRID.
 
-By accessing and using MapX, you agree to comply with these  **Terms of use**.
+By accessing and using MapX, you agree to comply with these **Terms of Use**.
 If you do not agree to these terms, please discontinue your use of MapX.
 
 General Information
@@ -23,7 +23,7 @@ the United Nations.
 
 Throughout this document, the Swiss Federal Office for the Environment,
 the United Nations Environment Programme, and the University of Geneva will
-be collectively referred to as the 'GRID-Geneva partners'.
+be collectively referred to as the "GRID-Geneva partners".
 
 User Responsibilities
 ---------------------
@@ -33,12 +33,12 @@ Acceptable Use
 
 Users agree to:
 
-- Use MapX solely for lawful purposes and in accordance with these 
-  **Terms of use**.
-- Refrain from uploading, sharing, or transmitting any content that 
-  is defamatory, obscene, illegal, or infringes on intellectual 
+- Use MapX solely for lawful purposes and in accordance with these
+  **Terms of Use**.
+- Refrain from uploading, sharing, or transmitting any content that
+  is defamatory, obscene, illegal, or infringes on intellectual
   property rights.
-- Avoid actions that could damage, disable, overburden, or impair MapX 
+- Avoid actions that could damage, disable, overburden, or impair MapX
   or interfere with another user's experience.
 
 Intellectual Property
@@ -47,39 +47,60 @@ Intellectual Property
 MapX Ownership
 ^^^^^^^^^^^^^^
 
-All intellectual property rights for the MapX platform, including its design,
-functionality, and content, belong to UNIGE/GRID and its licensors unless
-explicitly stated otherwise.
+Intellectual property rights in the MapX platform are owned by UNIGE/GRID
+and/or its licensors, unless otherwise stated. The MapX software is licensed
+under the GNU General Public License version 3 or later, which grants users
+the rights to use, copy, modify, and redistribute the software under
+the terms of that license. Logos, trademarks, branding elements, third-party
+components, datasets, documentation, and other content may be subject to
+separate rights or licences where indicated.
+
+Nothing in these **Terms of Use** is intended to limit the rights granted under
+the GNU General Public License version 3 or later with respect to the MapX
+software. In the event of any inconsistency between these **Terms of Use** and
+the GNU General Public License version 3 or later, the GNU General Public
+License shall govern with respect to the MapX software. These **Terms of Use**
+govern access to and use of the MapX platform and hosted services, but do not
+impose additional restrictions on rights granted under the GPL.
 
 Data Ownership and Access
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Data uploaded to a workspace in MapX is owned by the user who uploaded it.
-However, by default, all publishers and administrators within the same workspace
-have the ability to use, edit and share this data. This collaborative model
-ensures seamless interaction and updates within the workspace. For users who
-wish to retain exclusive control over their data, MapX provides options in
-the interface to restrict access and editing rights. Users are encouraged
-to configure these settings as needed to align with their preferences and
-data-sharing requirements.
+Data uploaded to a workspace in MapX remains owned by the user who uploaded it
+or by the relevant rights holder. By uploading data, users represent that they
+have the necessary rights, permissions, or licences to upload, use, share, and
+publish such data through MapX.
+
+By default, all publishers and administrators within the same workspace have
+the ability to use, edit, and share data uploaded to that workspace. This
+collaborative model ensures seamless interaction and updates within the
+workspace. For users who wish to retain exclusive control over their data,
+MapX provides options in the interface to restrict access and editing rights.
+Users are encouraged to configure these settings as needed to align with their
+preferences and data-sharing requirements.
 
 Users who publish their data publicly on MapX agree that all MapX users can
 view, reuse, create new content from, and export their public data, subject to
-the permissions of the applicable license. By making data publicly accessible,
+the permissions of the applicable licence. By making data publicly accessible,
 users consent to its broader use within the MapX ecosystem while retaining
-ownership of the original dataset.
+ownership of the original dataset or without prejudice to the rights of the
+relevant rights holder.
+
+Publishing data publicly on MapX does not, by itself, change the applicable
+licence. Public reuse is subject to the licence and access conditions specified
+in the dataset metadata.
 
 Licensing of Data
 ^^^^^^^^^^^^^^^^^
 
 Data available on MapX may be subject to a variety of licensing terms, covering
-both public and private datasets. Most datasets on MapX are open source and
-provided under licenses such as Creative Commons or other open data licenses.
-However, some datasets may have restricted access or proprietary licenses.
+both public and private datasets. Most datasets on MapX are open data and are
+provided under licences such as Creative Commons or other open data licences.
+However, some datasets may have restricted access or proprietary licences.
 Users are required to comply with the specific licensing terms associated with
 each dataset. Licensing details, including access restrictions and usage
-permissions, are clearly stated in the metadata for each dataset.
-Users are encouraged to review and adhere to these terms before using the data.
+permissions, are clearly stated in the metadata for each dataset. Users are
+encouraged to review and adhere to these terms before using the data.
 
 Attribution of Data
 ^^^^^^^^^^^^^^^^^^^
@@ -97,10 +118,13 @@ Mapterhorn, OpenStreetMap, the United Nations, and any user-integrated content.
 - For publicly available datasets, users must give credit to the original data
   providers as specified in the applicable licensing terms.
 - For user-generated content, attribution should acknowledge the original
-  creator or publisher as required by the dataset's license or terms of use.
+  creator or publisher as required by the dataset's licence or terms of use.
 - If data or maps are printed, downloaded, exported, or extracted from MapX,
   users must ensure that the attribution remains visible and intact, including
-  any information required by the relevant dataset or service license.
+  any information required by the relevant dataset or service licence.
+- Where attribution requirements conflict or are unclear, users must follow the
+  most restrictive applicable attribution requirement or refrain from reuse
+  until the applicable licence terms are clarified.
 - **Base map attribution**: Maps printed or exported from MapX must retain the
   attribution required by the data and service providers used in the active
   base map. Depending on the selected base map and visible layers, this may
@@ -146,11 +170,11 @@ the delimitation of its frontiers or boundaries.
 - Final status of Jammu and Kashmir has not yet been agreed upon by the parties.
   A dotted line represents approximately the Line of Control in Jammu and
   Kashmir agreed upon by India and Pakistan.
-- Final boundary between the Republic of Sudan and the Republic of 
+- Final boundary between the Republic of Sudan and the Republic of
   South Sudan has not yet been determined.
 - Final status of the Abyei area is not yet determined.
-- A dispute exists between the Governments of Argentina and the 
-  United Kingdom of Great Britain and Northern Ireland concerning 
+- A dispute exists between the Governments of Argentina and the
+  United Kingdom of Great Britain and Northern Ireland concerning
   sovereignty over the Falkland Islands (Malvinas).
 
 Disclaimer and Limitation of Liability
@@ -177,8 +201,8 @@ Software Development Kit Embedding and Compliance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The MapX Software Development Kit (SDK) is a comprehensive toolset that enables
-developers to seamlessly integrate the MapX single page application into web
-projects, providing access to comprehensive geospatial environmental data.
+developers to integrate the MapX single page application into web projects,
+providing access to comprehensive geospatial environmental data.
 
 Developers and organizations integrating MapX through the SDK must comply with
 the following requirements:
@@ -189,8 +213,8 @@ Mandatory Terms of Use Disclosure
 When embedding MapX via the SDK, the host website must either:
 
 1. Explicitly enable the MapX **Privacy Policy** and **Terms of Use** during
-   the initialization of the MapX instance, ensuring users are informed of and
-   agree to these terms before interaction, or
+   the initialization of the MapX instance, ensuring users are informed of
+   these terms before interaction, or
 
 2. Provide a clear and direct link to the full MapX **Terms of Use** and
    **Privacy Policy** on the host website, positioned prominently and
@@ -204,13 +228,16 @@ Responsibility Disclaimer
   `https://app.mapx.org <https://app.mapx.org>`__.
 
 - The host website is solely responsible for ensuring compliance with these
-  **Terms of Use** and maintaining appropriate user consent mechanisms.
+  **Terms of Use** and maintaining appropriate user consent mechanisms where
+  required.
 
 - Host websites must ensure that the embedding of MapX does not violate
   the **Acceptable Use** policy outlined in these **Terms of Use**.
 
-- Any misuse or inappropriate integration may result in the revocation of
-  SDK access.
+- Any misuse or inappropriate integration may result in suspension or revocation
+  of access to MapX-hosted services, APIs, credentials, or other resources
+  controlled by UNIGE/GRID, without limiting any rights users may have under
+  applicable open-source licences.
 
 Limitation of Liability for Third-Party Integrations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -222,8 +249,8 @@ the following provisions specifically apply to SDK integrations:
   from the integration of MapX on third-party websites.
 
 - The host website assumes full responsibility for ensuring proper
-  implementation, user consent, and compliance with these **Terms of Use**
-  when embedding MapX.
+  implementation, user consent where required, and compliance with these
+  **Terms of Use** when embedding MapX.
 
 - UNIGE/GRID reserves the right to request immediate removal of any MapX
   integration that does not meet the specified compliance requirements.
@@ -231,46 +258,52 @@ the following provisions specifically apply to SDK integrations:
 Platform Availability
 ---------------------
 
-MapX is provided "as is", and while UNIGE/GRID strive to ensure uninterrupted 
-access and accuracy of content, UNIGE/GRID do not guarantee error-free 
+MapX is provided "as is", and while UNIGE/GRID strives to ensure uninterrupted
+access and accuracy of content, UNIGE/GRID does not guarantee error-free
 operation or the completeness of information.
 
 Privacy Policy
 --------------
 
-MapX is committed to protecting user data in accordance with its 
-**Privacy policy**, including compliancy to the General Data Protection
-Regulation (GDPR). Please review our :doc:`Privacy policy <privacy-policy>`
+MapX is committed to protecting user data in accordance with its
+**Privacy Policy**, including compliance with the General Data Protection
+Regulation (GDPR). Please review our :doc:`Privacy Policy <privacy-policy>`
 for detailed information on data collection, usage, and user rights.
 
-Modifications to The Terms
----------------------------
+Modifications to the Terms
+--------------------------
 
-UNIGE/GRID reserves the right to update or modify these **Terms of use** at
+UNIGE/GRID reserves the right to update or modify these **Terms of Use** at
 any time. Changes will be communicated via the MapX platform or email.
-Continued use of MapX following any updates constitutes  acceptance of
+Continued use of MapX following any updates constitutes acceptance of
 the revised terms.
 
 Termination of Access
 ---------------------
 
-UNIGE/GRID may suspend or terminate user access to MapX at its  discretion,
-without notice, for violations of these **Terms of use** or other policies.
-Upon termination, any content uploaded by the user may  be anonymized
-to maintain platform functionality.
+UNIGE/GRID may suspend or terminate user access to MapX at its discretion,
+without notice, for violations of these **Terms of Use** or other policies.
+Upon termination, any content uploaded by the user may be anonymized,
+retained, removed, or otherwise processed to maintain platform functionality,
+subject to applicable law, applicable licences, archival requirements, and
+technical constraints.
+
+Public content or data that has already been published or reused by other users
+may remain available in accordance with the applicable licence and metadata,
+unless removal is required by law or by a valid rights-holder request.
 
 Governing Law and Dispute Resolution
 ------------------------------------
 
-These **Terms of use** are governed by Swiss law and the legal frameworks 
-of the United Nations. Disputes arising from these terms will be subject
-to arbitration under international arbitration rules or  resolved through
-Swiss courts in Geneva, as appropriate.
+These **Terms of Use** are governed by Swiss law and, where applicable, the
+legal frameworks of the United Nations. Disputes arising from these terms will
+be subject to arbitration under applicable international arbitration rules or
+resolved through the competent courts in Geneva, Switzerland, as appropriate.
 
 Contact Information
 -------------------
 
-For questions or concerns about these **Terms of use**, please contact us:
+For questions or concerns about these **Terms of Use**, please contact us:
 
 **Physical address**
 
@@ -291,6 +324,5 @@ For questions or concerns about these **Terms of use**, please contact us:
 | Website: `https://unepgrid.ch <https://unepgrid.ch/en>`__
 | Email: `info@mapx.org <mailto:info@mapx.org>`__
 
-By using MapX, you acknowledge that you have read, understood, and 
-agree to these **Terms of use**.
- 
+By using MapX, you acknowledge that you have read, understood, and
+agree to these **Terms of Use**.

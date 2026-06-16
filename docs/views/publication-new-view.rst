@@ -198,9 +198,10 @@ Creating a style
    7. Zoom settings: option to vary the size of the points according to
       the zoom level.
 
-   8. Custom style (advanced users - requires knowledge of Mapbox style
-      specifications): creating a style by directly editing the view
-      code. More information in Mapbox documentation.
+   8. Custom style (advanced users - requires knowledge of `Maplibre style
+      specifications <https://maplibre.org/maplibre-style-spec/>`__): creating
+      a style by directly editing the view code. More information in `Maplibre
+      GL JS documentation <https://maplibre.org/maplibre-gl-js/docs/>`__.
 
    9. Legend title *[multilingual]*: title you want to give the legend.
 
@@ -290,7 +291,7 @@ among other things, to publish external data (raster and/or vector), to
 integrate advanced features such as sliders and/or drop-down lists or
 even to interact with the map (e.g., zoom in on specific areas). The
 development of this type of view is reserved for advanced users as it
-requires knowledge of JavaScript, HTML, CSS and the Mapbox library.
+requires knowledge of JavaScript, HTML, CSS and the Maplibre GL JS library.
 
 .. figure:: ./img/view-new-cc-edit.png
    :align: center

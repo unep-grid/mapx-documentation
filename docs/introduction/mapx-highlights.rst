@@ -3,7 +3,7 @@ MapX highlights
 
 -  Most of MapX content (tools or data) is publicly available without
    the need to register in the application.
--  As of September 24, 2025, nearly 2,100 public data layers have been
+-  As of June 15, 2026, more than 2,100 public data layers have been
    published in MapX.
 -  It is currently available in all the UN's six official languages
    (Arabic, Chinese, English, French, Russian, Spanish) and in German,

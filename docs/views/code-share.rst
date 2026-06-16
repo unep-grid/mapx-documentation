@@ -16,7 +16,7 @@ tool table can be accessed via the dedicated button in the options bar.
    Code share icon
 
 
-.. figure:: ./img/code-share-panel.png
+.. figure:: ./img/code-share-panel.jpg
    :width: 700
    :align: center
    :class: with-shadow
@@ -27,7 +27,7 @@ tool table can be accessed via the dedicated button in the options bar.
 The **Code share** tool allows users to export the style in several
 formats which are described in the following sections:
 
-1. **Simple html/js app, using maplibre**: this option allows to copy
+1. **Simple html/js app, using Maplibre**: this option allows to copy
    the code of a basic but complete web page which displays the view.
    `Maplibre <https://maplibre.org/>`__ and the MapX API are used to
    display the map in an interactive way.
@@ -38,29 +38,24 @@ formats which are described in the following sections:
 
       JSFiddle integration example
 
-
-2. **Mapbox style (layers only)**: this option allows to copy the code
-   of all `Mapbox <https://www.mapbox.com/>`__ layers composing the view
+2. **Maplibre style (layers only)**: this option allows to copy the code
+   of all `Maplibre <https://maplibre.org/>`__ layers composing the view
    knowing that each rule defined in the style of the view corresponds
-   to a layer (`link to the Mapbox documentation
-   <https://docs.mapbox.com/mapbox-gl-js/style-spec/layers/>`__).
+   to a layer (`link to the Maplibre documentation
+   <https://maplibre.org/maplibre-style-spec/layers/>`__).
    
 
-3. **Mapbox style (full)**: this option allows to copy the code of the
-   complete `Mapbox <https://www.mapbox.com/>`__ style (source & layers)
+3. **Maplibre style (full)**: this option allows to copy the code of the
+   complete `Maplibre <https://maplibre.org/>`__ style (source & layers)
    of the view. This option can be useful for integrating MapX content
-   into another cartographic application based on Mapbox.
+   into another cartographic application based on Maplibre.
 
-4. **SLD format**: the last option allows to copy the style of the view
+4. **Maplibre base style**: this option allows to
+   copy the code of the MapX basemap style (source & layers).
+
+5. **SLD format**: the last option allows to copy the style of the view
    as a Styled Layer Descriptor (SLD). This format is supported by
    multiple open source softwares:
    `QGIS <https://www.qgis.org/fr/site/>`__,
    `GeoServer <https://geoserver.org/>`__,
    `MapServer <https://mapserver.org/>`__.
-
-   .. figure:: ./img/code-share-qgis.gif
-      :align: center
-      :class: with-shadow
-
-      Style integration in QGIS
-

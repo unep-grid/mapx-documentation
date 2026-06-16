@@ -1,35 +1,48 @@
 Views
 =====
 
-A two levels-data management system exists in MapX: “sources” and
-“views”. Simply put, sources are raw spatial data stored in the MapX
-database while views are a cartographic representation of it. As you
-will see below, the concept of view can go beyond this simple
-definition.
+MapX uses a two-level data management system based on **sources** and
+**views**.
 
-The different types of views available in MapX are:
+A **source** is the underlying spatial dataset stored in the MapX database.
+A **view** is the cartographic representation of a source, defining how the
+data is displayed and interacted with on the map. In practice, however, views
+can go beyond simple map rendering and may include custom interfaces, external
+data connections, or communication-oriented layouts.
 
--  `Vector
-   tiles <https://docs.mapbox.com/help/glossary/vector-tiles/>`__
-   **views** are used to display on the map data published in the MapX
-   database.
--  `Raster <https://docs.mapbox.com/help/glossary/raster/>`__ **views**
-   are based on external data services as MapX does not support raster
-   storage.
--  **Custom coded views** are fully customisable views that allow, among
-   other things, to display data from external sources or to implement
-   advanced features (e.g., drop-down list, slider). Advanced knowledge
-   in web development is required to code this type of view.
--  **Story maps** are communication products consisting of a mix of
-   spatial data and other types of information (text, images, graphes,
-   videos).
--  **Local GeoJSON views** are a special type of view allowing users to
-   visualize their vector data without having to upload it to the MapX
-   database. The data is thus temporarily stored in the user's browser.
+The main types of views available in MapX are:
+
+Vector tile views
+    Vector tile views are used to display spatial data published in the MapX
+    database.
+
+Raster views
+    Raster views are based on external data services, as MapX does not store
+    raster data directly in its database.
+
+Custom coded views
+    Custom coded views are fully customizable views that can be used to display
+    data from external sources or implement advanced interactive features, such
+    as drop-down lists, sliders, charts, or other custom controls. Creating
+    this type of view requires advanced web development skills.
+
+Story maps
+    Story maps are communication products that combine spatial data with other
+    types of content, such as text, images, charts, and videos.
+
+Local GeoJSON views
+    Local GeoJSON views allow users to visualize vector data without uploading
+    it to the MapX database. The data is temporarily stored in the user's
+    browser and is not persisted in the MapX database.
 
 The different view types are identifiable in MapX by the color of the
-circle displayed to the left of their title: - green: vector - purple:
-raster - blue: story map - red: custom code - orange: local GeoJSON
+circle displayed to the left of their title:
+
+- green: vector
+- purple: raster
+- blue: story map
+- red: custom code
+- orange: local GeoJSON
 
 .. figure:: ./img/view-types.png
    :align: center

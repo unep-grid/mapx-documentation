@@ -26,7 +26,7 @@ Navigation buttons
 +---------------------------+------------------------------------------+
 | |image6|                  | Enable/disable the globe mode            |
 +---------------------------+------------------------------------------+
-| |image7|                  | Enable/disable 3D terrain mode in the    |
+| |image7|                  | Enable/disable topography mode in the    |
 |                           | map                                      |
 +---------------------------+------------------------------------------+
 | |image8|                  | Enable/disable the aerial photography    |

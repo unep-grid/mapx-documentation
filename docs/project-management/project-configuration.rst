@@ -56,6 +56,10 @@ Map settings
    the map, either as a globe or using the Web Mercator projection. It is also
    possible to disable the globe mode button in the menu bar, preventing users
    from switching to the globe view.
+-  **Default boundary type**: defines which administrative boundaries are
+   displayed by default in the project map. Administrators can choose between
+   United Nations official boundaries, WMO official boundaries, OpenStreetMap
+   boundaries, or no administrative boundaries.
 
 Access settings
 ---------------

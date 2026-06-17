@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-**Last Updated: 15 June 2026**
+**Last Updated: 17 June 2026**
 
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental
@@ -40,6 +40,16 @@ Users agree to:
   property rights.
 - Avoid actions that could damage, disable, overburden, or impair MapX
   or interfere with another user's experience.
+- Refrain from uploading personal data, sensitive personal data,
+  confidential information, or restricted data unless they have a valid legal
+  basis, all necessary rights and permissions, and have configured appropriate
+  access restrictions in MapX.
+
+Users are responsible for ensuring that any personal data they upload,
+publish, or share through MapX complies with applicable data-protection laws,
+including Swiss data-protection law and, where applicable, the General Data
+Protection Regulation (GDPR), as well as the relevant dataset licence or access
+conditions.
 
 Intellectual Property
 ---------------------
@@ -87,8 +97,10 @@ ownership of the original dataset or without prejudice to the rights of the
 relevant rights holder.
 
 Publishing data publicly on MapX does not, by itself, change the applicable
-licence. Public reuse is subject to the licence and access conditions specified
-in the dataset metadata.
+licence. Public reuse remains subject to the licence and access conditions
+specified in the dataset metadata. Users are responsible for ensuring that
+any data they make public may lawfully be published, including under applicable
+data-protection, confidentiality, security, and licensing rules.
 
 Licensing of Data
 ^^^^^^^^^^^^^^^^^
@@ -239,6 +251,19 @@ Responsibility Disclaimer
   controlled by UNIGE/GRID, without limiting any rights users may have under
   applicable open-source licences.
 
+Data Protection Responsibilities for SDK Integrations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Where an SDK integration involves the processing of personal data, the host
+website is responsible for determining its role and obligations under
+applicable data-protection law, including whether a data-processing agreement,
+joint-controller arrangement, or other legal instrument is required.
+
+The host website is responsible for providing all privacy notices, consent
+mechanisms, legal bases, and user-rights mechanisms required for its own
+processing activities and for any personal data processed through its
+integration of MapX.
+
 Limitation of Liability for Third-Party Integrations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -246,11 +271,11 @@ In addition to the existing Disclaimer and Limitation of Liability section,
 the following provisions specifically apply to SDK integrations:
 
 - UNIGE/GRID is not liable for any damages, losses, or consequences arising
-  from the integration of MapX on third-party websites.
+  from the integration, configuration, operation, or use of MapX on third-party
+  websites.
 
-- The host website assumes full responsibility for ensuring proper
-  implementation, user consent where required, and compliance with these
-  **Terms of Use** when embedding MapX.
+- The host website assumes full responsibility for the proper implementation,
+  configuration, security, and lawful operation of its MapX integration.
 
 - UNIGE/GRID reserves the right to request immediate removal of any MapX
   integration that does not meet the specified compliance requirements.
@@ -265,10 +290,16 @@ operation or the completeness of information.
 Privacy Policy
 --------------
 
-MapX is committed to protecting user data in accordance with its
-**Privacy Policy**, including compliance with the General Data Protection
-Regulation (GDPR). Please review our :doc:`Privacy Policy <privacy-policy>`
-for detailed information on data collection, usage, and user rights.
+Personal data is processed in accordance with the MapX **Privacy Policy**,
+which explains the categories of personal data processed, purposes and legal
+bases of processing, retention periods, recipients, international transfers,
+user rights, and contact points for data-protection requests.
+
+MapX is operated in accordance with applicable Swiss data-protection law,
+including the Swiss Federal Act on Data Protection (FADP), and, where
+applicable, the General Data Protection Regulation (GDPR). Please review our
+:doc:`Privacy Policy <privacy-policy>` for detailed information on data
+collection, usage, and user rights.
 
 Modifications to the Terms
 --------------------------
@@ -295,10 +326,17 @@ unless removal is required by law or by a valid rights-holder request.
 Governing Law and Dispute Resolution
 ------------------------------------
 
-These **Terms of Use** are governed by Swiss law and, where applicable, the
-legal frameworks of the United Nations. Disputes arising from these terms will
-be subject to arbitration under applicable international arbitration rules or
-resolved through the competent courts in Geneva, Switzerland, as appropriate.
+These **Terms of Use** are governed by Swiss law, subject to any privileges,
+immunities, rules, or legal requirements applicable to the United Nations,
+UNEP, or other GRID-Geneva partners. Unless otherwise required by applicable
+privileges, immunities, mandatory legal provisions, or a separate written
+agreement, disputes arising from these **Terms of Use** shall be submitted to
+the competent courts of Geneva, Switzerland.
+
+Nothing in these **Terms of Use** shall be deemed or interpreted as a waiver,
+express or implied, of any privileges or immunities enjoyed by the United
+Nations, UNEP, or any other GRID-Geneva partner under international law,
+treaty, convention, headquarters agreement, or applicable national law.
 
 Contact Information
 -------------------

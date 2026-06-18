@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-**Last Updated: 17 June 2026**
+**Last Updated: 18 June 2026**
 
 MapX is a platform developed and maintained by the GRID-Geneva unit of
 the University of Geneva (hereinafter UNIGE/GRID) to support environmental
@@ -123,7 +123,8 @@ appropriate attribution in accordance with the licensing terms of the datasets
 and services used.
 
 This includes, but is not limited to, datasets and services provided by GEBCO,
-Mapterhorn, OpenStreetMap, the United Nations, and any user-integrated content.
+Mapterhorn, MapTiler, OpenStreetMap, the United Nations, and any
+user-integrated content.
 
 **General guidelines**:
 
@@ -140,8 +141,8 @@ Mapterhorn, OpenStreetMap, the United Nations, and any user-integrated content.
 - **Base map attribution**: Maps printed or exported from MapX must retain the
   attribution required by the data and service providers used in the active
   base map. Depending on the selected base map and visible layers, this may
-  include attribution to GEBCO, Mapterhorn, OpenStreetMap, the United Nations,
-  or other providers.
+  include attribution to GEBCO, Mapterhorn, MapTiler, OpenStreetMap, the
+  United Nations, or other providers.
 - **GEBCO attribution**: Maps using GEBCO bathymetry or GEBCO-derived products
   must acknowledge GEBCO in accordance with the GEBCO `terms of use
   <https://www.gebco.net/data-products/gridded-bathymetry/terms-of-use>`__.
@@ -150,6 +151,13 @@ Mapterhorn, OpenStreetMap, the United Nations, and any user-integrated content.
 - **Mapterhorn attribution**: Maps using Mapterhorn terrain tiles must include
   the attribution required by Mapterhorn. For attribution details, please refer
   to `Mapterhorn Attribution <https://mapterhorn.com/attribution>`__.
+- **MapTiler attribution**: Maps using MapTiler base maps, including the
+  MapTiler Satellite layer, must retain the attribution required by MapTiler
+  and its data providers. Unless otherwise specified by the applicable MapTiler
+  licence or service terms, maps using MapTiler layers must include attribution
+  to MapTiler and, where applicable, OpenStreetMap contributors. For MapTiler
+  attribution and data-source details, please refer to `MapTiler map data
+  licenses <https://www.maptiler.com/copyright/>`__.
 - **United Nations attribution**: The international and administrative
   boundaries, along with the first subnational level and country names displayed
   in the MapX base map, are sourced from the United Nations Geospatial Data.
